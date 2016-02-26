@@ -1,10 +1,13 @@
 openbsd_5.8
 
+## add a repository from the internet
+
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/5.8/packages/amd64/
+
+## or use the CD
+
+export PKG_PATH=/mnt/cdrom/$(uname -r)/packages/$(machine -a)/
 
 ## as root add to ~/.profile
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)
-or CD
-
-export PKG_PATH=/mnt/cdrom/$(uname -r)/packages/$(machine -a)/
