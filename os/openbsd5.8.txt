@@ -1,5 +1,8 @@
 openbsd_5.8
 
+## as root add user to wheel
+
+usermod -G wheel ~username~
 
 ## add a repository from the internet
 
