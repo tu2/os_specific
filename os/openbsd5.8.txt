@@ -4,6 +4,11 @@ openbsd_5.8
 
 usermod -G wheel ~username~
 
+## OR
+
+wheel:*:0:root,~user~
+
+
 ## add a repository from the internet
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/5.8/packages/amd64/
