@@ -8,6 +8,15 @@ usermod -G wheel ~username~
 
 wheel:*:0:root,~user~
 
+## enable ~doas~
+
+vi /etc/doas.conf
+
+## and add:
+
+permit keepenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel
+
+## SAVE
 
 ## add a repository from the internet
 
