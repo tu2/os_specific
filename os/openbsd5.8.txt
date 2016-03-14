@@ -30,6 +30,12 @@ export PKG_PATH=/mnt/cdrom/$(uname -r)/packages/$(machine -a)/
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)
 
-# install programs as root with
+## install programs as root (using 'su' or 'doas' ) with:
+
+## become 'root' first (using 'su')
 
 pkg_add ~program~
+
+## or
+
+doas pkg_add ~program~
