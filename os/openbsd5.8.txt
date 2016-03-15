@@ -1,4 +1,4 @@
-OpenBSD5.8
+~OpenBSD5.8~
 
 ## as root add user to wheel
 
