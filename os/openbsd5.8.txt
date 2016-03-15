@@ -1,6 +1,6 @@
 ~OpenBSD5.8~
 
-# a few basic settings
+# a few of the basic settings
 ## as root add user to wheel
 
 usermod -G wheel ~username~
