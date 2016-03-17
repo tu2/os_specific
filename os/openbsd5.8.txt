@@ -9,7 +9,7 @@ usermod -G wheel ~username~
 
 wheel:*:0:root,~user~
 
-## enable ~doas~
+## to enable ~doas~, edit doas.conf:
 
 vi /etc/doas.conf
 
