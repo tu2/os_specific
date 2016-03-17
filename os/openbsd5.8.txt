@@ -33,7 +33,7 @@ export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(
 
 ## to install programs:
 
-## become 'root' first (using 'su')
+## become 'root' using 'su':
 
 pkg_add ~program~
 
