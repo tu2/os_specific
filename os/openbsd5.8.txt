@@ -37,6 +37,6 @@ export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(
 
 pkg_add ~program~
 
-## or
+## or using doas
 
 doas pkg_add ~program~
