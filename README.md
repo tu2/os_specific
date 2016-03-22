@@ -5,5 +5,5 @@ Configuration files for different programs and operating systems I use.
     * [OpenBSD5.8](http://www.openbsd.org/)
 * **programs cofig files**
     * [Tmux](https://tmux.github.io/)
-    * Vim
+    * [Vim](http://www.vim.org/)
 
