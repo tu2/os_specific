@@ -1,6 +1,6 @@
 # configfiles
 
-This repository contains configuration files for different programs and operating systems I use.
+This repository contains configuration files for different programs and operating systems **'I use'**.
 
 * **os config files**
     * [OpenBSD5.8](http://www.openbsd.org/)
