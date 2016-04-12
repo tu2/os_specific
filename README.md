@@ -4,7 +4,7 @@ This repository contains configuration files for different programs and operatin
 
 * **os config files**
     * [OpenBSD5.8](http://www.openbsd.org/)
-* **programs cofig files**
+* **programs config files**
     * [Tmux](https://tmux.github.io/)
     * [Vim](http://www.vim.org/)
 
