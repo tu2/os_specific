@@ -1,6 +1,6 @@
 # OS specific configuration files
 
-A quick and dirty way of keeping the necessary commands for a basic installation and configuration of OpenBSD. For the time being is **just** OpenBSD.
+A quick and dirty way of keeping the necessary commands for a basic installation and configuration of OpenBSD.
 
 As always, the best source of inspiration is [openbsd's faq](http://www.openbsd.org/faq/index.html).
 
