@@ -1,7 +1,7 @@
 ~OpenBSD5.8~
 
 ## a few of the basic settings for openbsd 5.8
-## after os installation, login as root (or 'su') and add user to wheel:
+## after os installation, login as root (or 'su') and add user to wheel if you created user with 'adduser':
 
 usermod -G wheel ~username~
 
