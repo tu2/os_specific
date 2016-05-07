@@ -1,6 +1,6 @@
 # OS specific configuration files
 
-This file contains the necessary commands for a basic installation and configuration of OpenBSD5.8
+This file contains the necessary commands for a basic installation and configuration of OpenBSD
 
 As always, the best source of inspiration is [openbsd's faq](http://www.openbsd.org/faq/index.html).
 
