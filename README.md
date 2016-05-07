@@ -6,5 +6,5 @@ This repository contains configuration files for different programs and operatin
     * OpenBSD5.8 [OpenBSD](http://www.openbsd.org/)
 * **programs config files**
     * .tmux [Tmux](https://tmux.github.io/)
-    * [Vim](http://www.vim.org/)
+    * .vimrc [Vim](http://www.vim.org/)
 
