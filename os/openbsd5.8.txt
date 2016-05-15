@@ -5,7 +5,7 @@
 
 usermod -G wheel ~username~
 
-# OR
+## OR
 
 wheel:*:0:root,~user~
 
