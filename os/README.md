@@ -1,6 +1,6 @@
 # OS specific configuration files
 
-This repository contains the necessary commands for a basic installation and configuration of OpenBSD
+This repository contains some files with the necessary commands for a basic installation and configuration of some operating systems I use. For the time being it's only about OpenBSD but more files will be added later.
 
 As always, the best source of inspiration is [openbsd's faq](http://www.openbsd.org/faq/index.html).
 
