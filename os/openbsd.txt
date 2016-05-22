@@ -1,4 +1,4 @@
-~OpenBSD5.8~
+~version in use OpenBSD5.9~
 
 ## a few of the basic settings for openbsd 5.8
 
