@@ -1,6 +1,6 @@
 ~version in use OpenBSD5.9~
 
-## a few of the basic settings for openbsd 5.8
+## basic settings for openbsd 5.9
 
 ## add user to wheel:
 
