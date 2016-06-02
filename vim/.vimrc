@@ -1,5 +1,5 @@
 " Some of these settings are inspired from internet,
-" Others are from'ProVim' by Mark McDonnell
+" Others are from 'ProVim' by Mark McDonnell
 
 " Use vim setings rather then vi
 set nocompatible
