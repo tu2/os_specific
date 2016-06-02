@@ -1,4 +1,5 @@
-" Most of these settings are inspired from Mark McDonnell - ProVim a book I recommend
+" Some of these settings are inspired from  internet,
+" Mark McDonnell - ProVim a book I recommend
 
 " Use vim setings rather then vi
 set nocompatible
