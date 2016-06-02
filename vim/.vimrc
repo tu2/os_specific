@@ -1,4 +1,4 @@
-" Some of these settings are inspired from internet,
+" Some settings are inspired from internet,
 " Others are from 'ProVim' by Mark McDonnell
 
 " Use vim setings rather then vi
