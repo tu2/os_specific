@@ -1,4 +1,4 @@
-# configfiles
+# Configfiles
 
 This repository contains configuration files for different programs and operating systems **'I use'**.
 
