@@ -8,6 +8,7 @@ set nocompatible
 syntax enable
 
 " Automatically indent
+
 set smartindent
 
 " ????
