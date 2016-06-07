@@ -11,7 +11,6 @@ syntax enable
 set smartindent
 
 " ????
-
 set ruler
 
 " Status line
