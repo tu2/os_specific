@@ -1,4 +1,4 @@
-" Some settings are taken from internet,
+" Some of these settings are taken from internet,
 " Others are from 'ProVim' by Mark McDonnell
 
 " Use vim setings rather then vi
@@ -8,7 +8,6 @@ set nocompatible
 syntax enable
 
 " Automatically indent
-
 set smartindent
 
 " ????
