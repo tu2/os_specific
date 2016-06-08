@@ -17,7 +17,6 @@ set ruler
 set laststatus=2
 
 " ???
-
 set number
 
 " Tabs converted to 4 spaces
