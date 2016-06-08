@@ -20,7 +20,6 @@ set laststatus=2
 set number
 
 " Tabs converted to 4 spaces
-
 set shiftwidth=4
 set tabstop=4
 set expandtab
