@@ -1,5 +1,5 @@
 ~ OpenBSD5.9~
-~ basic settings for openbsd ~
+~ basic settings ~
 
 ## add user to wheel:
 
