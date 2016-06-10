@@ -27,7 +27,7 @@ export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/5.8/packages/amd64/
 
 export PKG_PATH=/mnt/cdrom/$(uname -r)/packages/$(machine -a)/
 
-## as root add to ~/.profile:
+## as root export path to ~/.profile:
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)
 
