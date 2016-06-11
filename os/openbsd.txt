@@ -1,6 +1,7 @@
 ~ OpenBSD5.9~
 ~ basic settings ~
 
+## if the user is not yet added to wheel
 ## add user to wheel:
 
 usermod -G wheel ~username~
