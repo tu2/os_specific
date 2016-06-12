@@ -14,7 +14,7 @@ wheel:*:0:root,~user~
 
 permit keepenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel
 
-## add a repository (from the internet):
+## to add a repository (from the internet):
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/5.8/packages/amd64/
 
