@@ -10,11 +10,9 @@ usermod -G wheel ~username~
 
 wheel:*:0:root,~user~
 
-## to enable ~doas~, edit doas.conf:
+## to enable ~doas~, edit /etc/doas.conf:
 
-vi /etc/doas.conf
-
-## and add:
+add:
 
 permit keepenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel
 
