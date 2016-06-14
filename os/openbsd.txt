@@ -8,8 +8,6 @@ usermod -G wheel ~username~
 
 ## or
 
-
-
 wheel:*:0:root,~user~
 
 ## to enable ~doas~, add this to /etc/doas.conf:
