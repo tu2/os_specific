@@ -3,8 +3,10 @@
 This repository contains files with the necessary commands for a basic installation and configuration of some operating systems I use. 
 
 For openbsd:
+
 '''
 curl -O https://raw.githubusercontent.com/tu2/configfiles/master/os/openbsd.txt
+
 '''
 
 The best source of inspiration for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html).
