@@ -4,7 +4,7 @@ This repository contains files with the necessary commands for a basic installat
 
 For openbsd:
 
-'''
+'''cli
 curl -O https://raw.githubusercontent.com/tu2/configfiles/master/os/openbsd.txt
 
 '''
