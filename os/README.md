@@ -8,7 +8,7 @@ For openbsd:
 curl -O https://raw.githubusercontent.com/tu2/configfiles/master/os/openbsd.txt
 ```
 
-The best source of inspiration for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html).
+The best source of inspiration for installing/using OpenBSD is the [faq](http://www.openbsd.org/faq/index.html).
 
 A good install tutorial is [here](http://sohcahtoa.org.uk/openbsd.html).
 
