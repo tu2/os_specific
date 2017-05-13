@@ -14,10 +14,6 @@ permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/5.8/packages/amd64/
 
-## or use a local one (from the CD)
-
-export PKG_PATH=/mnt/cdrom/$(uname -r)/packages/$(machine -a)/
-
 ## export path to ~/.profile:
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)
@@ -36,3 +32,20 @@ pkg_add ~program~
 ## or install programs using 'doas':
 
 doas pkg_add ~program~
+
+## SECURITY
+
+## OpenBSD syspatch
+
+su
+syspatch
+
+## M:Tier
+
+curl -O https://stable.mtier.org/openup
+chmod +x openup
+./openup
+
+pkg_add -u
+
+##END
