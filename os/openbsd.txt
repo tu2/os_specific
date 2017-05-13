@@ -22,6 +22,11 @@ export PKG_PATH=/mnt/cdrom/$(uname -r)/packages/$(machine -a)/
 
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)
 
+## in 6.1 there is an option for an installurl file (/etc/installurl):
+
+su -l
+echo "https://www.mirrorservice.org/pub/OpenBSD" >> /etc/installurl
+
 ## to install programs:
 
 ## become 'root' using 'su' and install programs:
