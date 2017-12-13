@@ -3,25 +3,15 @@
 
 
 ### add user to wheel
-(if the user is not yet added to wheel)
+(if the user was not created during the installation)
 
 ```bash
-usermod -G wheel ~username~
+usermod -G wheel user_name
 ```
 
-### enable _doas_
+### enable _doas_ (openbsd replacement for sudo)
 Become root and edit doas.conf
-if it's not created, create the file
-
-```bash
-su
-password:
-
-vi /etc/doas.conf
-```
-and add this line: permit *setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel*
-
-or
+if it's not created, create it __/etc/doas.conf__
 
 ```bash
 su -l
