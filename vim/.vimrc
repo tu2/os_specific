@@ -16,7 +16,7 @@ set ruler
 " Status line
 set laststatus=2
 
-" ???
+" show line numbers
 set number
 
 " Tabs converted to 4 spaces
