@@ -16,4 +16,6 @@ OpenBSD on a [laptop](http://sohcahtoa.org.uk/openbsd.html).
 
 OpenBSD as [server](http://thecyberrecce.net/2017/01/15/secure-webservers-with-openbsd-6-0-setting-up-httpd-mariadb-and-php/).
 
+[OpenBSD, httpd, PHP, MariaDB](https://www.rootbsd.net/kb/339/Installing-OpenBSDandsharp039s-httpd-server-MariaDB-PHP-56-on-OpenBSD-59.html).
+
 I learn every day, and some time I need to keep all these steps I follow in order and easy to access. That's the reason I created this repository! For **my own** need.
