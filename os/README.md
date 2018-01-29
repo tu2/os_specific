@@ -10,6 +10,8 @@ curl -O https://raw.githubusercontent.com/tu2/configfiles/master/os/openbsd.txt
 
 The best installation gide for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html) page.
 
+# Useful links:
+
 OpenBSD on a [laptop](http://sohcahtoa.org.uk/openbsd.html).
 
 [OpenBSD and ownCloud](https://homing-on-code.blogspot.co.uk/2015/03/puffy-in-cloud.html?m=1).
