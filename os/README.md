@@ -8,7 +8,7 @@ For openbsd:
 curl -O https://raw.githubusercontent.com/tu2/configfiles/master/os/openbsd.txt
 ```
 
-The best source of inspiration for installing/using OpenBSD is the [faq](http://www.openbsd.org/faq/index.html).
+The best installation gide for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html) page.
 
 OpenBSD on a [laptop](http://sohcahtoa.org.uk/openbsd.html).
 
@@ -18,4 +18,3 @@ OpenBSD as [server](http://thecyberrecce.net/2017/01/15/secure-webservers-with-o
 
 [OpenBSD, httpd, PHP, MariaDB](https://www.rootbsd.net/kb/339/Installing-OpenBSDandsharp039s-httpd-server-MariaDB-PHP-56-on-OpenBSD-59.html).
 
-I learn every day, and some time I need to keep all these steps I follow in order and easy to access. That's the reason I created this repository! For **my own** need.
