@@ -9,6 +9,7 @@ curl -O https://raw.githubusercontent.com/tu2/configfiles/master/os/openbsd.txt
 ```
 
 The best installation gide for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html) page.
+There is an [awesome-openbsd](https://github.com/quobit/awesome-openbsd) repository on github.
 
 # Useful links:
 
