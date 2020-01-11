@@ -56,14 +56,6 @@ doas pkg_add program_name
 
 ```bash
 doas syspatch
-```
-
-### M:Tier
-
-```bash
-curl -O https://stable.mtier.org/openup
-chmod +x openup
-./openup
 
 pkg_add -u
 ```
