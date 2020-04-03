@@ -1,6 +1,6 @@
 # Configfiles
 
-Configuration files for different programs and operating systems **'I use'**.
+Configuration files for different programs.
 
 * **os config files**
     * OpenBSD [OpenBSD](http://www.openbsd.org/)
