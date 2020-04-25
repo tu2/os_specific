@@ -1,10 +1,6 @@
-# Configfiles
+# OS Config
 
-Configuration files for different programs.
+Configuration files and tutorials for different os.
 
-* **os config files**
+* **OpenBSD config & tutorials**
     * OpenBSD [OpenBSD](http://www.openbsd.org/)
-* **programs config files**
-    * .tmux.conf [Tmux](https://tmux.github.io/)
-    * .vimrc [Vim](http://www.vim.org/)
-
