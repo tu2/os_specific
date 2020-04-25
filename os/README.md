@@ -1,19 +1,14 @@
-# OS specific configuration files
+# OpenBSD specific howto and config
 
-This repository contains files with the necessary commands for a basic installation and configuration of some operating systems. 
+This repository contains some basic scripts and a short howto_install_openbsd tutorial.
 
-For openbsd:
-
-```bash
-curl -O https://raw.githubusercontent.com/tu2/configfiles/master/os/openbsd.txt
-```
-
+## Note:
 The best installation gide for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html) page.
-There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
 
-# Some online resouces:
+## Some online resouces:
+
+There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
 
 OpenBSD on a [laptop](http://sohcahtoa.org.uk/openbsd.html).
 
 OpenBSD as [server](http://thecyberrecce.net/2017/01/15/secure-webservers-with-openbsd-6-0-setting-up-httpd-mariadb-and-php/).
-
