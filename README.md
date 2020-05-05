@@ -2,4 +2,4 @@
 
 Configuration files and tutorials for different os.
 
-* **OpenBSD[openbsd.org](https://www.openbsd.org) config & tutorials**
+* **openbsd - config & tutorials** for [OpenBSD](https://www.openbsd.org)
