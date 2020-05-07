@@ -1,4 +1,4 @@
-# OpenBSD specific howto and config
+# OpenBSD install howto and config
 
 This repository contains some basic scripts and a short howto_install_openbsd tutorial.
 
