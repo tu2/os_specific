@@ -1,6 +1,6 @@
 # OpenBSD install howto and config
 
-This repository contains some basic scripts and a short howto_install_openbsd tutorial.
+Basic scripts and a short howto_install_openbsd tutorial.
 
 ## Note:
 The best installation gide for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html) page.
