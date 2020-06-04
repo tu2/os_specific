@@ -31,7 +31,7 @@ sudo apt --purge autoremove
 dmesg | egrep -i 'err|warn|critical'
 sudo tail -f /var/log/myapp
 
-# installed PACKAGE version
+## installed PACKAGE version
 apt list {name}
 apt-cache policy {name}
 apt-cache madison {name}
@@ -40,12 +40,12 @@ dpkg -s {name}
 dpkg -s {name} | grep -i version
 apt show {name}
 
-# Change hostname
+## Change hostname
 hostnamectl set-hostname {new_name}
 OR
 vim /etc/hostname
 vim /etc/hosts ???
-# Programming tools 
+## Programming tools 
 sudo apt install build-essential git curl
-# Networking
+## Networking
 ip address show
