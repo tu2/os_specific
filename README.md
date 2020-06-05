@@ -6,5 +6,6 @@ Configuration files and tutorials for different os.
 * **linux** - all linux files
 
 ## Online resources
-* [awesom](https://github.com/awesome-selfhosted/awesome-selfhosted) selfhosted
-* [awesom](https://github.com/onurakpolat/awesome-analytics) analytics
+* [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
+* [awesom analytics](https://github.com/onurakpolat/awesome-analytics) 
+* [shynet analytics](https://github.com/milesmcc/shynet) - cool project
