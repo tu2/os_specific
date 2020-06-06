@@ -1,19 +1,25 @@
 # Debian how_to
 
 check os version: 
-
+```bash
 uname -mrs
 lsb_release -a
 
+```
+
 update installed packages
+```bash
 sudo apt update
 sudo apt upgrade
 sudo apt full-upgrade OR apt-get dist-upgrade
 sudo apt --purge autoremove
-
+```
+```bash
 sudo reboot
+```
 
 reconfigurations APT source-list /etc/apt/source.list
+```bash
 sudo cp -v /etc/apt/sources.list /root/
 sudo cp -rv /etc/apt/sources.list.d/ /root/
 
@@ -25,9 +31,10 @@ sudo apt upgrade
 sudo apt full-upgrade
 sudo apt reboot
 sudo apt --purge autoremove
-
+```
 
 ----
+
 dmesg | egrep -i 'err|warn|critical'
 sudo tail -f /var/log/myapp
 
