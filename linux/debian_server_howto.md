@@ -16,6 +16,9 @@ sudo apt full-upgrade
 OR 
 ```bash
 apt-get dist-upgrade
+```
+than remove unnecessary crust 
+```bash
 sudo apt --purge autoremove
 ```
 ```bash
