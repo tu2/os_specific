@@ -11,7 +11,11 @@ update installed packages
 ```bash
 sudo apt update
 sudo apt upgrade
-sudo apt full-upgrade OR apt-get dist-upgrade
+sudo apt full-upgrade
+```
+OR 
+```bash
+apt-get dist-upgrade
 sudo apt --purge autoremove
 ```
 ```bash
@@ -33,7 +37,6 @@ sudo apt reboot
 sudo apt --purge autoremove
 ```
 
-----
 
 dmesg | egrep -i 'err|warn|critical'
 sudo tail -f /var/log/myapp
