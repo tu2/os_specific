@@ -17,7 +17,7 @@ OR
 ```bash
 apt-get dist-upgrade
 ```
-than remove unnecessary crust 
+than, remove unnecessary crust 
 ```bash
 sudo apt --purge autoremove
 ```
@@ -39,10 +39,12 @@ sudo apt full-upgrade
 sudo apt reboot
 sudo apt --purge autoremove
 ```
+check for errors
 
-
+```bash
 dmesg | egrep -i 'err|warn|critical'
 sudo tail -f /var/log/myapp
+```
 
 ## installed PACKAGE version
 apt list {name}
