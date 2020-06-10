@@ -1,4 +1,5 @@
 # Debian how_to
+## Upgrade to the latest os version using command line
 
 check os version: 
 ```bash
