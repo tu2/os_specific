@@ -1,13 +1,13 @@
 # Debian how_to
 ## Upgrade to the latest os version using command line
 
+### Variant 1
 check os version: 
 ```bash
 uname -mrs
 lsb_release -a
 
 ```
-
 update installed packages
 ```bash
 sudo apt update
@@ -25,7 +25,7 @@ sudo apt --purge autoremove
 ```bash
 sudo reboot
 ```
-
+### Variant 2
 reconfigurations APT source-list /etc/apt/source.list
 ```bash
 sudo cp -v /etc/apt/sources.list /root/
@@ -47,21 +47,30 @@ dmesg | egrep -i 'err|warn|critical'
 sudo tail -f /var/log/myapp
 ```
 
-## installed PACKAGE version
+## Verify installed PACKAGE version
+```bash
 apt list {name}
 apt-cache policy {name}
 apt-cache madison {name}
-
 dpkg -s {name}
 dpkg -s {name} | grep -i version
 apt show {name}
+```
 
 ## Change hostname
+```bash
 hostnamectl set-hostname {new_name}
+```
 OR
+```bash
 vim /etc/hostname
 vim /etc/hosts ???
+```
 ## Programming tools 
+```bash
 sudo apt install build-essential git curl
+```
 ## Networking
+```bash
 ip address show
+```
