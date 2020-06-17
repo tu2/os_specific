@@ -5,7 +5,12 @@ Basic scripts and a short howto_install_openbsd tutorial.
 ## Note:
 The best installation gide for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html) page.
 
-## Some online resouces:
+## On GitHub
+
+[openbsd](https://github.com/openbsd)
+[joshua stein](https://github.com/jcs)
+
+## Online resouces:
 
 There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
 
