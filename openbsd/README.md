@@ -1,4 +1,5 @@
 # OpenBSD install howto and config
+:heart: :uk: :smile:
 
 Basic scripts and a short howto_install_openbsd tutorial.
 
