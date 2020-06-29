@@ -17,6 +17,8 @@ Official OpenBSD [CVS Repository](https://cvsweb.openbsd.org/)
 
 ## Online resouces:
 
+[openBSD Jumpstart](https://www.openbsdjumpstart.org/#/)
+
 There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
 
 OpenBSD on a [laptop](http://sohcahtoa.org.uk/openbsd.html).
