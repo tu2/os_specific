@@ -60,4 +60,18 @@ doas syspatch
 pkg_add -u
 ```
 
-## Other things
+## Routing
+
+Show the routing table (ipv4)
+```bash
+route -n show -inet
+```
+Show the routing table (ipv6)
+
+```bash
+route -n show -inet6
+```
+Delete all gateway entries from the routing table
+```bash
+route -n flush
+```
