@@ -1,15 +1,29 @@
 # OpenBSD
 ## Basic settings after installation
 
+### Add user
 
-### add user to wheel
+Manualy
+```shell
+user [add|del|info|mod] foobar
+```
+Add users interactively
+```shell
+adduser
+```
+Remove users interactively
+```shell
+rmuser
+```
+
+### Add user to wheel
 (if the user was not created during the installation)
 
 ```bash
 usermod -G wheel user_name
 ```
 
-### enable _doas_ (openbsd replacement for sudo)
+### Enable _doas_ (openbsd replacement for sudo)
 Become root and edit doas.conf
 if it's not created, create it __/etc/doas.conf__
 
@@ -19,18 +33,18 @@ su -l
 echo "permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel" >> /etc/doas.conf
 ```
 
-### add a repository (from the internet):
+### Add a repository (from the internet):
 my example:
 ```bash
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/6.2/packages/amd64/
 ```
 
-### export path to ~/.profile:
+### Export path to ~/.profile:
 ```bash
 export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)
 ```
 
-### since 6.1 there is an option for an installurl file (/etc/installurl):
+### Since 6.1 there is an option for an installurl file (/etc/installurl):
 ```bash
 su -l
 echo "https://www.mirrorservice.org/pub/OpenBSD" >> /etc/installurl
