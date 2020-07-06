@@ -3,11 +3,11 @@
 
 Basic scripts and a short howto_install_openbsd tutorial.
 
-## Note:
+## Official resources:
 
-The best installation gide for OpenBSD is the [faq](http://www.openbsd.org/faq/index.html) page.
+[Installation gide](http://www.openbsd.org/faq/index.html).
 
-Official OpenBSD [CVS Repository](https://cvsweb.openbsd.org/)
+[CVS Repository](https://cvsweb.openbsd.org/)
 
 ## On GitHub
 
