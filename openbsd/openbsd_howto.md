@@ -64,9 +64,7 @@ or install programs using **doas**:
 doas pkg_add program_name
 ```
 
-## SECURITY
-
-### OpenBSD **syspatch**
+## Security updates
 
 ```bash
 doas syspatch
