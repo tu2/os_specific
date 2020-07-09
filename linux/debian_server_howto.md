@@ -67,9 +67,15 @@ vim /etc/hostname
 vim /etc/hosts ???
 ```
 ## Programming tools 
+c programming
 ```bash
 sudo apt install build-essential git curl
 ```
+php
+```bash
+sudo apt-get install php libapache2-mod-php
+```
+
 ## Networking
 ```bash
 ip address show
