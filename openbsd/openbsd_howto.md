@@ -2,7 +2,9 @@
 ## Basic settings after installation
 
 ### Add user
+
 (read man adduser)
+
 Manualy
 ```shell
 user [add|del|info|mod] foobar
