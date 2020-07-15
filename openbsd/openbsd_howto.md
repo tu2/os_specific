@@ -1,7 +1,7 @@
 # OpenBSD
 ## Basic settings after installation
 
-### Add user
+### Add user (man adduser)
 
 Manualy
 ```shell
