@@ -1,8 +1,8 @@
 # OpenBSD
 ## Basic settings after installation
 
-### Add user (man adduser)
-
+### Add user
+(read man adduser)
 Manualy
 ```shell
 user [add|del|info|mod] foobar
