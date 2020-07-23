@@ -1,6 +1,6 @@
 # OpenBSD install howto and config
 
-Basic scripts and a short howto_install_openbsd tutorial.
+Basic scripts and a short howto_install_openbsd tutorial. :heart: :uk: :smile:
 
 ## Official resources:
 
