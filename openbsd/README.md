@@ -24,4 +24,4 @@ OpenBSD [on a laptop](http://sohcahtoa.org.uk/openbsd.html) | [Cullum Smith](htt
 
 OpenBSD as [server](http://thecyberrecce.net/2017/01/15/secure-webservers-with-openbsd-6-0-setting-up-httpd-mariadb-and-php/).
 
-:heart :smile
+:heart: :smile:
