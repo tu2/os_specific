@@ -4,4 +4,3 @@ All linux files
 
 [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
 
-:heart: :uk: :smile:
