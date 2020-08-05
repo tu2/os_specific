@@ -17,6 +17,13 @@ Remove users interactively
 ```shell
 rmuser
 ```
+Manage groups (/etc/group)
+
+Members in wheel group can use su(1) to become root. 
+
+```shell
+group [add|del|info|mod] foobar
+```
 
 ### Add user to wheel
 (if the user was not created during the installation)
