@@ -42,35 +42,27 @@ su -l
 echo "permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel" >> /etc/doas.conf
 ```
 
-### Add a repository (from the internet):
-my example:
-```bash
-export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/6.2/packages/amd64/
-```
+### Install packages
+pkg_info(1), pkg_add(1), installurl(5)
 
-### Export path to ~/.profile:
-```bash
-export PKG_PATH=http://www.mirrorservice.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)
-```
+By default, the /etc/installurl file already contains an OpenBSD mirror server URL
+https://cdn.openbsd.org/pub/OpenBSD
 
-### Since 6.1 there is an option for an installurl file (/etc/installurl):
+Add a repository:
+
 ```bash
 su -l
 echo "https://www.mirrorservice.org/pub/OpenBSD" >> /etc/installurl
 ```
 
-### Install programs:
-
-become **root** and install programs using **pkg_add**:
+### Install a package:
 
 ```bash
-pkg_add program_name
+doas pkg_add program
 ```
-
-or install programs using **doas**:
-
+### Search for packages
 ```bash
-doas pkg_add program_name
+pkg_info -Q program
 ```
 
 ## Security updates
