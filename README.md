@@ -1,6 +1,6 @@
-# OS Config
+# Operating Systems Specific
 
-Configuration files and tutorials for different os.
+Operating systems specific howo, tutorials and config files.
 
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
 * **linux** - all linux files
