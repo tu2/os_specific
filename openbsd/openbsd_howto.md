@@ -68,6 +68,10 @@ Search for packages
 ```bash
 pkg_info -Q program
 ```
+List files installed by a package
+```bash
+pkg_info -L program
+```
 
 ## Security updates
 
