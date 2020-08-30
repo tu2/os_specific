@@ -55,12 +55,16 @@ su -l
 echo "https://www.mirrorservice.org/pub/OpenBSD" >> /etc/installurl
 ```
 
-### Install a package:
+Install a package:
 
 ```bash
 doas pkg_add program
 ```
-### Search for packages
+List packages installed
+```bash
+pkg_info
+```
+Search for packages
 ```bash
 pkg_info -Q program
 ```
