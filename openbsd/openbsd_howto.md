@@ -76,6 +76,10 @@ View install-message for a specific package
 ```bash
 pkg_info -M program
 ```
+Delete a package
+```bash
+pkg_delete program
+```
 
 ## Security updates
 
