@@ -42,7 +42,7 @@ su -l
 echo "permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel" >> /etc/doas.conf
 ```
 
-### Install packages
+### Manage packages
  pkg_add(1), pkg_delete(1), pkg_info(1), installurl(5)
 
 By default, the /etc/installurl file already contains an OpenBSD mirror server URL
