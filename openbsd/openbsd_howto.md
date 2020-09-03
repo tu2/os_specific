@@ -80,6 +80,10 @@ Delete a package
 ```bash
 pkg_delete program
 ```
+Show unused dependencies
+```bash
+pkg_delete -an
+```
 
 ## Security updates
 
