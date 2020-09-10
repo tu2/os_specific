@@ -1,6 +1,6 @@
 All linux files
 
-# Useful online resources
+# Online resources
 
 [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
 
