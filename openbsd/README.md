@@ -2,7 +2,7 @@
 
 A short howto_install_openbsd tutorial and hopefully many more.
 
-## Official resources:
+## OpenBSD official resources:
 
 [Installation gide](http://www.openbsd.org/faq/index.html).
 
