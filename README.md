@@ -1,6 +1,6 @@
 # Operating Systems Specific
 
-Howto, tutorials and config files.
+Howtos, tutorials and config files.
 
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
 * **linux** - all linux files
