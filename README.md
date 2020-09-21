@@ -1,4 +1,4 @@
-# :mask: Operating Systems Specific
+# Operating Systems Specific
 HOWTOs, tutorials and config files.
 
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
