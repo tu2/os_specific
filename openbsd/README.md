@@ -4,7 +4,7 @@ A short howto_install_openbsd tutorial and hopefully many more.
 
 ## Other OpenBSD resources:
 
-Official OpenBSD [Installation gide](http://www.openbsd.org/faq/index.html).
+Official OpenBSD [installation gide](http://www.openbsd.org/faq/index.html).
 
 [CVS Repository](https://cvsweb.openbsd.org/)
 
