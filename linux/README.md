@@ -1,4 +1,4 @@
-All linux files
+All linux files. Howto for some linux distros.
 
 # Online resources
 
