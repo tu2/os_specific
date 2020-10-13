@@ -1,4 +1,4 @@
-# Debian how_to
+# Debian howto
 ## Upgrade to the latest os version using command line
 
 Variant 1 the best
