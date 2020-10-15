@@ -26,8 +26,7 @@ group [add|del|info|mod] foobar
 ```
 
 ### Add user to wheel
-(if the user was not created during the installation)
-Not so sure this is necessary
+(If the user was not created during the installation, not so sure this is necessary)
 
 ```bash
 usermod -G wheel user_name
