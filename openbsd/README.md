@@ -1,4 +1,4 @@
-# OpenBSD install howto
+# OpenBSD howto
 
 A short howto_install_openbsd tutorial and hopefully many more.
 
