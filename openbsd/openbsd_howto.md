@@ -95,7 +95,7 @@ pkg_add -u
 
 ## Upgrade
 
-sysupgrade(8) is a utility to upgrade OpenBSD to the next release or a new snapshot
+**sysupgrade(8)** is a utility to upgrade OpenBSD to the next release or a new snapshot
 
 
 ## Routing
