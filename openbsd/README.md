@@ -20,4 +20,4 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
 
-OpenBSD [on a laptop](http://sohcahtoa.org.uk/openbsd.html) | [Cullum Smith](https://www.c0ffee.net/blog/openbsd-on-a-laptop/) version.
+Keith Burnett - OpenBSD [on a laptop](http://sohcahtoa.org.uk/openbsd.html) | [Cullum Smith](https://www.c0ffee.net/blog/openbsd-on-a-laptop/) version.
