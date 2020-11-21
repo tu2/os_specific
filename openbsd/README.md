@@ -1,6 +1,6 @@
 # OpenBSD howto
 
-A short howto_install_openbsd tutorial and hopefully many more.
+A short installation and general usage of the operating system tutorial.
 
 ## OpenBSD online resources
 
