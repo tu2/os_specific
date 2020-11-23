@@ -1,8 +1,6 @@
 # Debian howto
 ## Upgrade to the latest version using command line
 
-**Variant 1** is the best
-
 ### Variant 1
 check os version: 
 ```bash
