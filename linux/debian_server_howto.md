@@ -1,6 +1,6 @@
 # Debian howto
 
-Resources [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
+Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ## Upgrade to the latest version using command line
 
