@@ -67,6 +67,14 @@ inet6 autoconf
 up powersave
 
 ```
+Test:
+
+```
+ifconfig em0 down
+ifconfig iwn0 down
+pkill dhclient
+sh /etc/netstart
+```
 
 ### Manage packages
 ***pkg_add(1), pkg_delete(1), pkg_info(1), installurl(5)***
