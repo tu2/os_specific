@@ -43,7 +43,7 @@ echo "permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel" >> /etc/doas.conf
 ```
 ### Network setup (laptops)
 
-***ifconfig*** to find the wireless network interface (let's say ***iwn0***
+***ifconfig*** to find the wireless network interface (let's say ***iwn0***)
 
 ```
 fw_update
