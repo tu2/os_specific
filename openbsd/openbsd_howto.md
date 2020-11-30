@@ -41,6 +41,20 @@ su -l
 
 echo "permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel" >> /etc/doas.conf
 ```
+### Network setup (laptops)
+
+***ifconfig*** to find the wireless network interface (let's say ***iwn0***
+
+```
+fw_update
+
+ifconfig iwn0 up
+ifconfig iwn0 scan
+
+ifconfig iwn0 nwid YOUR_SSID wpakey "YOUR_PASSPHRASE"
+dhclient iwn0
+
+```
 
 ### Manage packages
 ***pkg_add(1), pkg_delete(1), pkg_info(1), installurl(5)***
