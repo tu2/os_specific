@@ -55,6 +55,18 @@ ifconfig iwn0 nwid YOUR_SSID wpakey "YOUR_PASSPHRASE"
 dhclient iwn0
 
 ```
+To make the configuration persistent create ***/etc/hostname.iwn0*** with the following:
+
+```
+join "YOUR_SSID" wpakey "YOUR_PASSPHRASE"
+# you can specify other networks here too, in order of priority:
+# join "WORK_SSID" wpakey "WORK_PASSPHRASE"
+# join "OPEN_COFFEE_SHOP"
+dhcp
+inet6 autoconf
+up powersave
+
+```
 
 ### Manage packages
 ***pkg_add(1), pkg_delete(1), pkg_info(1), installurl(5)***
