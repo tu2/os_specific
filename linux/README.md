@@ -6,5 +6,5 @@
 * [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
 * [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
-* On [reddit](https://www.reddit.com/r/linux/)
+* Linux on [reddit](https://www.reddit.com/r/linux/)
 
