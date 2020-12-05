@@ -7,7 +7,9 @@ A short installation and general usage of the operating system tutorial.
 Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 [CVS Repository](https://cvsweb.openbsd.org/)
+
 [OpenBSD Journal](http://www.undeadly.org/cgi?action=front)
+
 [reddit](https://www.reddit.com/r/openbsd/)
 
 ## On GitHub
