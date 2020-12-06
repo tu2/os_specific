@@ -2,7 +2,7 @@
 
 **Online resources**
 * [Oh, I'm old ...](https://tldp.org/) - howto's
-* [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) -Info
+* [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) - info
 * [nixCraft](https://www.cyberciti.biz/) - tutorials
 * [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
