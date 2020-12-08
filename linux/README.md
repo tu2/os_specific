@@ -1,6 +1,6 @@
 # Howto's and configuration files speciffic to linux os.
 
-**Online resources**
+** More online resources**
 * [Oh, I'm old ...](https://tldp.org/) - howto's
 * [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) - info
 * [nixCraft](https://www.cyberciti.biz/) - tutorials
