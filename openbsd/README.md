@@ -20,7 +20,7 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 ## Miscellaneous resources
 
-Kristaps Dzonsons - [BCHS](https://learnbchs.org)
+Kristaps Dzonsons - [BCHS](https://learnbchs.org) - interesting project
 
 [OpenBSD Jumpstart](https://www.openbsdjumpstart.org/#/)
 
