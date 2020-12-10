@@ -19,7 +19,8 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 [joshua stein](https://github.com/jcs)
 
 ## Miscellaneous resources
-[BCHS](https://learnbchs.org)
+
+Kristaps Dzonsons - [BCHS](https://learnbchs.org)
 
 [OpenBSD Jumpstart](https://www.openbsdjumpstart.org/#/)
 
