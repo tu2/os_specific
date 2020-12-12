@@ -7,8 +7,9 @@
 * [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
 * [Linux workstation security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
-* [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
 
+**Security specific**
+* [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
 
 **General interest**
 * Linux on [Reddit](https://www.reddit.com/r/linux/)
