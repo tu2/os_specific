@@ -7,7 +7,7 @@
 * [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
 
-**Security specific**
+**Security**
 * [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
 * [Linux workstation security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
 * [Guide to User Data Security](https://fusionauth.io/learn/expert-advice/security/guide-to-user-data-security/)
