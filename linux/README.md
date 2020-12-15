@@ -1,7 +1,7 @@
 # How-tos and configuration files speciffic to linux os.
 
 **Online resources**
-* [Oh, I'm old ...](https://tldp.org/) (lots of linux how-tos from the very beginning)
+* [Oh, I'm old ...](https://tldp.org/) (lots of linux how-tos from the beginning)
 * [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) - info
 * [nixCraft](https://www.cyberciti.biz/) - tutorials
 * [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
