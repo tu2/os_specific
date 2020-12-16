@@ -9,7 +9,7 @@
 
 **Security**
 * [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
-* [Linux workstation security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
+* [Linux workstation security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md) - GitHub
 * [Guide to User Data Security](https://fusionauth.io/learn/expert-advice/security/guide-to-user-data-security/)
 
 **General interest**
