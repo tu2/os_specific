@@ -6,7 +6,7 @@
 * [nixCraft](https://www.cyberciti.biz/) - tutorials
 * [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
-* OSU DevOps [Bootcampls](http://devopsbootcamp.osuosl.org/start-here.html)
+* OSU DevOps [BootCamp](http://devopsbootcamp.osuosl.org/start-here.html)
 
 **Security**
 * [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
