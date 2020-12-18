@@ -1,11 +1,12 @@
 # How-tos and configuration files speciffic to linux os.
 
-**Online resources**
+**Other online resources**
 * [Oh, I'm old ...](https://tldp.org/) (lots of linux how-tos from the beginning)
 * [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) - info
 * [nixCraft](https://www.cyberciti.biz/) - tutorials
 * [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
+* OSU DevOps [Bootcampls](http://devopsbootcamp.osuosl.org/start-here.html)
 
 **Security**
 * [Hardening Ubuntu. Systemd edition.](https://github.com/konstruktoid/hardening)
@@ -13,8 +14,5 @@
 * [Guide to User Data Security](https://fusionauth.io/learn/expert-advice/security/guide-to-user-data-security/)
 
 **General interest**
-* [---] tbc
-* [---]
-* [---]
 * Linux on [Reddit](https://www.reddit.com/r/linux/)
 
