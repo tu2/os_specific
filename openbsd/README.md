@@ -1,8 +1,11 @@
 # OpenBSD howto
 
 A short installation and general usage of the operating system tutorial.
+
 [-]
+
 [--]
+[---]
 
 ## OpenBSD online resources
 
