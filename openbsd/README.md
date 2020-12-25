@@ -27,4 +27,5 @@ Kristaps Dzonsons - [BCHS](https://learnbchs.org) - interesting project
 There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
 
 Keith Burnett - OpenBSD [on a laptop](http://sohcahtoa.org.uk/openbsd.html) | [Cullum Smith](https://www.c0ffee.net/blog/openbsd-on-a-laptop/) version.
-..<(*_ *)>..
+
+<(*_ *)>
