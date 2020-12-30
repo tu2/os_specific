@@ -14,6 +14,6 @@
 * [Guide to User Data Security](https://fusionauth.io/learn/expert-advice/security/guide-to-user-data-security/)
 
 **General interest**
-* <(0_ 0)>
+* <(*_-)>
 * Linux on [Reddit](https://www.reddit.com/r/linux/)
 
