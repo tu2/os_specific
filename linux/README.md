@@ -18,7 +18,7 @@
    (*_*)
  ``\(_)/``
     (_)
-   _/ \_
+  ._/ \_.
 ```
 * Linux on [Reddit](https://www.reddit.com/r/linux/)
 
