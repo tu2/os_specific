@@ -15,9 +15,9 @@
 
 **General interest**
 ```
-   (*_-)  
- ``\(_)/``
-    (_)   _\0/_   
+   (*_-) {('_')}
+ ``\(_)/``\/0\/
+    (_)    _0_ 
    _/ \_   / \
 ```
 * Linux on [Reddit](https://www.reddit.com/r/linux/)
