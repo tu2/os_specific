@@ -28,4 +28,4 @@ There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) reposi
 
 Keith Burnett - OpenBSD [on a laptop](http://sohcahtoa.org.uk/openbsd.html) | [Cullum Smith](https://www.c0ffee.net/blog/openbsd-on-a-laptop/) version.
 
-<( :) )>
+<(*_')>
