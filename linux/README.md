@@ -1,5 +1,9 @@
 # How-tos and configuration files speciffic to linux os.
 
+**Online resources**
+
+* Official [Ubuntu Documentation](https://help.ubuntu.com/) |
+
 **Other online resources**
 * [Oh, I'm old ...](https://tldp.org/) (lots of linux how-tos from the beginning)
 * [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) - info
