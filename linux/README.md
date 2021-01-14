@@ -1,4 +1,4 @@
-# How-tos and configuration files speciffic to linux os.
+# How-to's and configuration files speciffic to linux os.
 
 **Online resources**
 
