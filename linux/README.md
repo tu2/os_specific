@@ -2,7 +2,7 @@
 
 **Online resources**
 
-* Official [Ubuntu Documentation](https://help.ubuntu.com/) | [Debian Adminstrator's Handbook](https://debian-handbook.info/browse/stable/)
+* Official [Ubuntu Documentation](https://help.ubuntu.com/) | Debian Adminstrator's [Handbook](https://debian-handbook.info/browse/stable/)
 
 **Other online resources**
 * [Oh, I'm old ...](https://tldp.org/) (lots of linux how-tos from the beginning)
