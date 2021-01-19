@@ -1,3 +1,3 @@
 # Ubuntu Server Howto
 
-Official Ubuntu Documentation
+Official [Ubuntu Documentation](https://help.ubuntu.com/)
