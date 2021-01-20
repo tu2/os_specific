@@ -8,4 +8,6 @@ Official [Ubuntu Documentation](https://help.ubuntu.com/)
 # apt update && apt upgrade -y
 # do-release-upgrade
 
+# apt autoremove
+
 ```
