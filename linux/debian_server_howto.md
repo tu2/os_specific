@@ -84,8 +84,3 @@ sudo mysql_secure_installation
 ```bash
 ip address show
 ```
-## Editors
-
-```
-sudo apt install vim
-```
