@@ -71,7 +71,7 @@ vim /etc/hosts ???
 ## Programming tools 
 c programming
 ```bash
-sudo apt install build-essential git curl valgrind
+sudo apt install build-essential gdb git curl valgrind
 ```
 php
 ```bash
