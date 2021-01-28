@@ -23,3 +23,7 @@ snap list
 ```
 sudo snap remove --purge package-name
 ```
+Clear the snap cache
+```
+sudo rm -rf /var/cache/snapd/
+```
