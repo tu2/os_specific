@@ -12,3 +12,4 @@ Official [Ubuntu Documentation](https://help.ubuntu.com/)
 # apt autoremove
 
 ```
+## Remove Snap 
