@@ -13,3 +13,13 @@ Official [Ubuntu Documentation](https://help.ubuntu.com/)
 
 ```
 ## Remove Snap 
+
+**Check for installed snap packages**
+
+```
+snap list
+```
+**Remove snap packages**
+```
+
+```
