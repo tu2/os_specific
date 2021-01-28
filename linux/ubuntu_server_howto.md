@@ -21,5 +21,5 @@ snap list
 ```
 **Remove snap packages**
 ```
-
+sudo snap remove --purge package-name
 ```
