@@ -27,7 +27,7 @@ Clear the snap cache
 ```
 sudo rm -rf /var/cache/snapd/
 ```
-## Uninstall snap and snap GUI tool
+**Uninstall snap and snap GUI tool**
 ```
 sudo apt autoremove --purge snapd gnome-software-plugin-snap
 ```
