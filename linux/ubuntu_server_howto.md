@@ -32,7 +32,7 @@ sudo rm -rf /var/cache/snapd/
 sudo apt autoremove --purge snapd gnome-software-plugin-snap
 ```
 
-## Clear snap preferences
+**Clear snap preferences**
 ```
 rm -fr ~/snap
 ```
