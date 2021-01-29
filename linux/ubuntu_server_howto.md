@@ -36,7 +36,7 @@ sudo apt autoremove --purge snapd gnome-software-plugin-snap
 ```
 rm -fr ~/snap
 ```
-## Put snap on hold
+**Put snap on hold**
 
 Holding a package prevents it from being installed or upgraded automatically
 
