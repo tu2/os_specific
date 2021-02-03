@@ -1,4 +1,4 @@
-# Debian howto
+# Debian server howto
 
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
