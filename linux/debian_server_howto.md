@@ -69,9 +69,9 @@ vim /etc/hostname
 vim /etc/hosts ???
 ```
 ## Programming tools 
-c programming
+c programming, local development
 ```bash
-sudo apt install build-essential gdb git curl valgrind
+sudo apt install build-essential gdb git curl valgrind tmux
 ```
 php
 ```bash
