@@ -14,6 +14,8 @@ Official [Ubuntu Documentation](https://help.ubuntu.com/)
 ```
 ## Remove Snap 
 
+Nothing against **Snap**, but I don't want it for my server
+
 **Check for installed snap packages**
 
 ```
