@@ -68,6 +68,11 @@ OR
 vim /etc/hostname
 vim /etc/hosts ???
 ```
+## Networking
+```bash
+ip address show
+```
+
 ## Programming tools 
 c programming, local development
 ```bash
@@ -80,7 +85,4 @@ sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
 
-## Networking
-```bash
-ip address show
-```
+
