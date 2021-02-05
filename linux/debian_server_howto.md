@@ -80,7 +80,7 @@ sudo apt install build-essential gdb git curl valgrind tmux
 ```
 ## Set-up LAMP
 
-install php
+Install php
 
 ```bash
 sudo apt-get install php libapache2-mod-php 
