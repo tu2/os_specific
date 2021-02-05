@@ -5,13 +5,13 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 ## Upgrade to the latest version
 
 ### Variant 1
-check os version: 
+Check os version: 
 ```bash
 uname -mrs
 lsb_release -a
 
 ```
-update installed packages
+Update installed packages
 ```bash
 sudo apt update && sudo apt upgrade
 sudo apt full-upgrade
@@ -28,7 +28,7 @@ sudo apt --purge autoremove
 sudo reboot
 ```
 ### Variant 2
-reconfigurations APT source-list /etc/apt/source.list
+Reconfigurations APT source-list /etc/apt/source.list
 ```bash
 sudo cp -v /etc/apt/sources.list /root/
 sudo cp -rv /etc/apt/sources.list.d/ /root/
@@ -42,7 +42,7 @@ sudo apt full-upgrade
 sudo apt reboot
 sudo apt --purge autoremove
 ```
-check for errors
+Check for errors
 
 ```bash
 dmesg | egrep -i 'err|warn|critical'
@@ -74,7 +74,7 @@ ip address show
 ```
 
 ## Programming tools 
-c programming, local development
+C programming, local development
 ```bash
 sudo apt install build-essential gdb git curl valgrind tmux
 ```
@@ -87,5 +87,3 @@ sudo apt-get install php libapache2-mod-php
 sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
-
-
