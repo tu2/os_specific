@@ -78,11 +78,14 @@ c programming, local development
 ```bash
 sudo apt install build-essential gdb git curl valgrind tmux
 ```
-php
+## Set-up LAMP
+
+install php
+
 ```bash
 sudo apt-get install php libapache2-mod-php 
 sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
 
-## Set-up LAMP
+
