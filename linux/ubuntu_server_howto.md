@@ -51,6 +51,14 @@ c programming, local development
 sudo apt install build-essential gdb git curl valgrind tmux
 ```
 ## Set-up LAMP
+
+Install Apache
+```bash
+sudo apt update
+sudo apt install apache2
+
+```
+
 Install PHP
 ```bash
 sudo apt-get install php libapache2-mod-php 
