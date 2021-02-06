@@ -50,7 +50,8 @@ c programming, local development
 ```bash
 sudo apt install build-essential gdb git curl valgrind tmux
 ```
-php
+## Set-up LAMP
+Install PHP
 ```bash
 sudo apt-get install php libapache2-mod-php 
 sudo apt-get install mysql-server
