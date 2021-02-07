@@ -1,6 +1,6 @@
 # Debian Server Howto
 
-test1
+test2
 
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
