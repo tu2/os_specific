@@ -22,6 +22,8 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 Kristaps Dzonsons - [BCHS](https://learnbchs.org) - interesting project
 
+Roman Zolotarev [resources](https://rgz.ee/openbsd/)
+
 [OpenBSD Jumpstart](https://www.openbsdjumpstart.org/#/)
 
 There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
