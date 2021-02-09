@@ -12,6 +12,8 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 [reddit](https://www.reddit.com/r/openbsd/)
 
+[pf-badhost](https://www.geoghegan.ca/pfbadhost.html)
+
 ## On GitHub
 
 [openbsd](https://github.com/openbsd)
