@@ -58,6 +58,11 @@ sudo apt update
 sudo apt install apache2
 
 ```
+Configure Firewall
+```bash
+sudo ufw app list
+sudo ufw allow in "Apache"
+sudo ufw status
 
 Install PHP
 ```bash
