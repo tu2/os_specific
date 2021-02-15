@@ -93,3 +93,4 @@ sudo apt-get install php libapache2-mod-php
 sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
+configure firewall
