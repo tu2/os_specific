@@ -85,12 +85,16 @@ Install Apache
 sudo apt update
 sudo apt install apache2
 ```
+Configure Firewall
+```bash
+sudo ufw app list
+sudo ufw allow in "Apache"
+```
 
 Install PHP
-
 ```bash
 sudo apt-get install php libapache2-mod-php 
 sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
-configure firewall
+
