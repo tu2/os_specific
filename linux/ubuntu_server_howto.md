@@ -1,6 +1,7 @@
 # Ubuntu Server Howto
 
 ## subtitle
+## subtitle 2
 
 Official [Ubuntu Documentation](https://help.ubuntu.com/)
 
