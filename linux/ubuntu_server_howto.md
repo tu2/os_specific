@@ -63,7 +63,7 @@ Configure Firewall
 sudo ufw app list
 sudo ufw allow in "Apache"
 sudo ufw status
-
+```
 Install PHP
 ```bash
 sudo apt-get install php libapache2-mod-php 
