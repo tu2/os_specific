@@ -2,7 +2,7 @@
 
 Official [Ubuntu Documentation](https://help.ubuntu.com/)
 
-server config, https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04
+server [config](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04)
 
 ## Upgrade to a newer release
 
