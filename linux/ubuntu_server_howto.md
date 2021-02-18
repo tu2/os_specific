@@ -58,6 +58,8 @@ sudo apt update
 sudo apt install apache2
 
 ```
+test apache
+
 Configure Firewall
 ```bash
 sudo ufw app list
