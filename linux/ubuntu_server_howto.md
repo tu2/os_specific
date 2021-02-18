@@ -71,3 +71,4 @@ sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
 add mysql
+secure mysql
