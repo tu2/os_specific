@@ -58,7 +58,7 @@ sudo apt update
 sudo apt install apache2
 
 ```
-test apache
+todo: test apache
 
 Configure Firewall
 ```bash
@@ -72,5 +72,5 @@ sudo apt-get install php libapache2-mod-php
 sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
-add mysql
-secure mysql
+to do: add mysql
+       secure mysql
