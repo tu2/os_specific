@@ -77,3 +77,4 @@ sudo mysql_secure_installation
 * mysql
 
 * secure mysql
+* python web development
