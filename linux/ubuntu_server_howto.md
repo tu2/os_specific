@@ -78,3 +78,4 @@ sudo mysql_secure_installation
 
 * secure mysql
 * python web development
+* ruby web development
