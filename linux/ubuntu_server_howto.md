@@ -58,7 +58,7 @@ sudo apt update
 sudo apt install apache2
 
 ```
-todo: test apache
+todo: configure/test apache
 
 Configure Firewall
 ```bash
