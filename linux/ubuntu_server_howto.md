@@ -74,8 +74,7 @@ sudo mysql_secure_installation
 ```
 **to do:** 
 
-* mysql
-* secure mysql
+* install mysql, secure mysql
 * python web development
 * ruby web development
 * c web development cgi :)
