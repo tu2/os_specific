@@ -64,6 +64,7 @@ configure/test apache
 
 Configure Firewall
 ```bash
+# List all currently available UFW application profiles
 sudo ufw app list
 
 # To only allow traffic on port 80, use the Apache profile:
