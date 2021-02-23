@@ -65,8 +65,11 @@ configure/test apache
 Configure Firewall
 ```bash
 sudo ufw app list
+
 # To only allow traffic on port 80, use the Apache profile:
 sudo ufw allow in "Apache"
+
+# Verify the change:
 sudo ufw status
 ```
 Install PHP
