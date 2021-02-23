@@ -62,7 +62,7 @@ sudo apt install apache2
 
 configure/test apache
 
-Configure Firewall
+Update the Firewall
 ```bash
 # List all currently available UFW application profiles
 sudo ufw app list
