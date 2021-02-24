@@ -56,6 +56,9 @@ sudo mkdir /var/www/web_domain
 # Assign ownership of the directory with the $USER environment variable, which will reference your current system user:
 sudo chown -R $USER:$USER /var/www/web_domain
 
+# Configure file in Apache’s sites-available directory
+sudo vi /etc/apache2/sites-available/webr_domain.conf
+
 ```
 Update the Firewall
 ```bash
