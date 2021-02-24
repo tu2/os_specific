@@ -5,11 +5,11 @@ Official [Ubuntu Documentation](https://help.ubuntu.com/)
 ## Upgrade to a newer release
 
 ```
-# apt update && apt upgrade -y
+sudo apt update && apt upgrade -y
 
-# do-release-upgrade
+sudo do-release-upgrade
 
-# apt autoremove
+sudo apt autoremove
 
 ```
 ## Remove Snap 
