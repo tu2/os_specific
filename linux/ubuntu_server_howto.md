@@ -42,13 +42,13 @@ sudo apt install build-essential gdb git curl valgrind tmux
 ```
 ## Set-up LAMP
 
-Install Apache
+**Install/Config Apache**
 ```bash
 sudo apt update
 sudo apt install apache2
 
 ```
-**Create a Virtual Host for Website** 
+Create a Virtual Host for Website
 ```bash
 # Create the directory for web_domain:
 sudo mkdir /var/www/web_domain
