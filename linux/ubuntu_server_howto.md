@@ -48,10 +48,15 @@ sudo apt update
 sudo apt install apache2
 
 ```
-**todo:** 
+**Create a Virtual Host for Website** 
+```bash
+# Create the directory for web_domain:
+sudo mkdir /var/www/web_domain
 
-configure/test apache
+# Assign ownership of the directory with the $USER environment variable, which will reference your current system user:
+sudo chown -R $USER:$USER /var/www/web_domain
 
+```
 Update the Firewall
 ```bash
 # List all currently available UFW application profiles
