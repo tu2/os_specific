@@ -57,7 +57,7 @@ sudo mkdir /var/www/web_domain
 sudo chown -R $USER:$USER /var/www/web_domain
 
 # Configure file in Apache’s sites-available directory
-sudo vi /etc/apache2/sites-available/webr_domain.conf
+sudo vi /etc/apache2/sites-available/web_domain.conf
 
 <VirtualHost *:80>
     ServerName web_domain
@@ -67,7 +67,6 @@ sudo vi /etc/apache2/sites-available/webr_domain.conf
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
-
 ```
 Update the Firewall
 ```bash
