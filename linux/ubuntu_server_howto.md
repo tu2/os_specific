@@ -68,6 +68,8 @@ sudo vi /etc/apache2/sites-available/web_domain.conf
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 ```
+To test Apache without a domain name, remove or comment out the options **ServerName** and **ServerAlias** by adding a **#** character in the beginning of each option’s lines.
+
 Update the Firewall
 ```bash
 # List all currently available UFW application profiles
