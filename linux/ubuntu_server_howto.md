@@ -85,6 +85,9 @@ sudo apt-get install php libapache2-mod-php
 sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
+Install/config mysql
+```bash
+```
 **to do:** 
 
 * install mysql, secure mysql, install/config php webframework
