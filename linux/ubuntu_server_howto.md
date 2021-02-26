@@ -71,6 +71,11 @@ sudo vi /etc/apache2/sites-available/web_domain.conf
 # To test Apache without a domain name, remove or comment out:
 #ServerName 
 #ServerAlias 
+
+# Disable Apache’s default website
+sudo a2dissite 000-default
+
+
 ```
 Update the Firewall
 ```bash
