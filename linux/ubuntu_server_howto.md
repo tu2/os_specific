@@ -78,6 +78,8 @@ sudo a2dissite 000-default
 # Enable the new virtual host
 sudo a2ensite web_domain
 
+# Reload Apache so these changes take effect
+sudo systemctl reload apache2
 
 ```
 Update the Firewall
