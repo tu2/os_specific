@@ -81,6 +81,23 @@ sudo a2dissite 000-default
 # Reload Apache so these changes take effect
 sudo systemctl reload apache2
 
+# Test - create file
+vi /var/www/web_domain/index.html
+
+# index.html
+
+<html>
+  <head>
+    <title>web_domain website</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+
+    <p>This is the landing page of <strong>web_domain</strong>.</p>
+  </body>
+</html>
+
+# Browser -> http://server_domain_or_IP
 ```
 Update the Firewall
 ```bash
