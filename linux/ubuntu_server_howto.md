@@ -115,14 +115,16 @@ sudo ufw allow in "Apache"
 # Verify the change:
 sudo ufw status
 ```
-Install PHP
+Install/Config PHP, MySQL
 ```bash
 sudo apt-get install php libapache2-mod-php 
 sudo apt-get install mysql-server
 sudo mysql_secure_installation
 ```
-Install/config mysql
+Modify **DirectoryIndex** on Apache for php files
 ```bash
+# /etc/apache2/mods-enabled/dir.conf
+sudo vi /etc/apache2/mods-enabled/dir.conf
 ```
 **to do:** 
 
