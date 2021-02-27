@@ -71,6 +71,9 @@ vim /etc/hosts ???
 ## Networking
 ```bash
 ip address show
+
+# the hard way
+ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
 ```
 
 ## Programming tools 
