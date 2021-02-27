@@ -12,6 +12,11 @@ sudo do-release-upgrade
 sudo apt autoremove
 
 ```
+Find IP address 'the hard way'
+```bash
+ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
+```
+
 ## Remove Snap 
 
 Nothing against **Snap**, but I don't want it for my server
