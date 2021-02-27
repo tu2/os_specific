@@ -123,8 +123,14 @@ sudo mysql_secure_installation
 ```
 Modify **DirectoryIndex** on Apache for php files
 ```bash
-# /etc/apache2/mods-enabled/dir.conf
 sudo vi /etc/apache2/mods-enabled/dir.conf
+
+# /etc/apache2/mods-enabled/dir.conf
+<IfModule mod_dir.c>
+        DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
+</IfModule>
+
+# reload Apache
 ```
 **to do:** 
 
