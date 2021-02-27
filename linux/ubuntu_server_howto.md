@@ -131,6 +131,7 @@ sudo vi /etc/apache2/mods-enabled/dir.conf
 </IfModule>
 
 # reload Apache
+sudo systemctl reload apache2
 ```
 **to do:** 
 
