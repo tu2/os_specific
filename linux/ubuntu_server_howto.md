@@ -137,7 +137,8 @@ sudo systemctl reload apache2
 
 * install mysql - **done**
 * secure mysql - **done** 
-* install/config php webframework
+* install/config php - **done**
+* webframework
 * python web development
 * ruby web development
 * c web development cgi :)
