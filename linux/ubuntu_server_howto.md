@@ -135,9 +135,9 @@ sudo systemctl reload apache2
 ```
 **to do:** 
 
-* install mysql - **done**
-* secure mysql - **done** 
-* install/config php - **done**
+- [x]install mysql
+- [x]secure mysql
+- [x]install/config php
 * webframework
 * python web development
 * ruby web development
