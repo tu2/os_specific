@@ -10,6 +10,7 @@ HOWTOs, tutorials and config files.
 
 **Useful resources**
 * [DNS Lookup | IP Location](https://www.dnswatch.info/)
+* [NVD](https://nvd.nist.gov/)
 
 **Miscellaneous**
 * [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
