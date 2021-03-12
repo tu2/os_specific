@@ -17,7 +17,8 @@
 * [Guide to User Data Security](https://fusionauth.io/learn/expert-advice/security/guide-to-user-data-security/)
 
 **General interest**
-```  _     /*\
+```
+     _     /*\
    ('_') {('_')} 
  ``\(_)/``\/0\/``
     (_)    _|_  
