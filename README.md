@@ -9,7 +9,7 @@ HOWTOs, tutorials and config files.
 * [Faces of open source](https://www.facesofopensource.com/)
 
 **Useful resources**
-* [DNS Lookup](https://www.dnswatch.info/)
+* [DNS Lookup | IP Location](https://www.dnswatch.info/)
 
 **Miscellaneous**
 * [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
