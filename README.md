@@ -12,6 +12,7 @@ HOWTOs, tutorials and config files.
 * [DNS Lookup | IP Location](https://www.dnswatch.info/)
 * [NVD](https://nvd.nist.gov/)
 * [CISA](https://us-cert.cisa.gov/)
+* [VIRUSTOTAL](https://www.virustotal.com/gui/)
 
 **Miscellaneous**
 * [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
