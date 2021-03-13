@@ -7,7 +7,7 @@
 **Other online resources**
 * [Oh, I'm old ...](https://tldp.org/) (lots of linux how-tos from the beginning)
 * [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) - info
-* [nixCraft](https://www.cyberciti.biz/) - tutorials
+* nixCraft - [tutorials](https://www.cyberciti.biz/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
 * OSU DevOps [BootCamp](http://devopsbootcamp.osuosl.org/start-here.html)
 
