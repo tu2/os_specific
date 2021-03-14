@@ -5,7 +5,7 @@
 * Official [Ubuntu Documentation](https://help.ubuntu.com/) | Debian Adminstrator's [Handbook](https://debian-handbook.info/browse/stable/)
 
 **Other online tutorials**
-* [Oh, I'm old ...](https://tldp.org/) (lots of linux how-tos from the beginning)
+* [Oh, I'm old ...](https://tldp.org/) (lots of linux howtos)
 * [Linux Journal](https://www.linuxjournal.com/) | [LWN](https://lwn.net/) - info
 * nixCraft - [tutorials](https://www.cyberciti.biz/)
 * [Planet Debian](https://planet.debian.org/), [Planet Ubuntu](https://planet.ubuntu.com)
