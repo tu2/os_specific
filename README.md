@@ -9,8 +9,8 @@ HOWTOs, tutorials and config files.
 * [Faces of open source](https://www.facesofopensource.com/)
 
 **Useful resources**
-* [DNS Lookup | IP Location](https://www.dnswatch.info/)
-* [IP-Tracker](https://www.ip-tracker.org)
+* [DNS Lookup | IP Location](https://www.dnswatch.info/) (dnswatch.info)
+* [IP-Tracker](https://www.ip-tracker.org) (ip-tracker.org)
 * [NVD](https://nvd.nist.gov/)
 * [CISA](https://us-cert.cisa.gov/)
 * [VIRUSTOTAL](https://www.virustotal.com/gui/)
