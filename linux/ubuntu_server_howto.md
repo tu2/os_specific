@@ -97,7 +97,6 @@ vi /var/www/web_domain/index.html
   </head>
   <body>
     <h1>Hello World!</h1>
-
     <p>This is the landing page of <strong>web_domain</strong>.</p>
   </body>
 </html>
@@ -130,7 +129,10 @@ sudo vi /etc/apache2/mods-enabled/dir.conf
         DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
 </IfModule>
 
-# reload Apache
+# Make sure your configuration file doesn’t contain syntax errors
+sudo apache2ctl configtest
+
+# Reload Apache
 sudo systemctl reload apache2
 ```
 **to do:** 
