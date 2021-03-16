@@ -135,10 +135,6 @@ sudo apache2ctl configtest
 # Reload Apache
 sudo systemctl reload apache2
 ```
-*
-**
-***
-****
 
 **to do:** 
 
@@ -148,4 +144,4 @@ sudo systemctl reload apache2
 - [ ] php webframework
 - [ ] python web development
 - [ ] ruby web development
-- [ ] c web development cgi :)
+- [ ] c web development cgi 😃
