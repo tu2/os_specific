@@ -139,7 +139,7 @@ sudo apache2ctl configtest
 # Reload Apache
 sudo systemctl reload apache2
 ```
-***
+****
 **to do:** 
 
 - [x] install mysql
