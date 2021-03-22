@@ -2,8 +2,6 @@
 
 Official [Ubuntu Documentation](https://help.ubuntu.com/)
 
-***
-
 ## Upgrade to a newer release
 
 ```
