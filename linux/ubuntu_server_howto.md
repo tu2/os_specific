@@ -48,7 +48,7 @@ sudo apt install build-essential gdb git curl valgrind tmux
 ```
 ***
 
-## Set-up LAMP
+## Set-up LAMP Server
 
 **Install/Config Apache**
 ```bash
