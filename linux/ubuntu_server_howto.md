@@ -16,7 +16,7 @@ Find IP address 'the hard way'
 ```bash
 ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
 ```
-****
+***
 
 ## Remove Snap 
 
