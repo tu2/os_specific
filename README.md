@@ -16,6 +16,7 @@ HOWTOs, tutorials and config files.
 * [CISA](https://us-cert.cisa.gov/)
 * [VIRUSTOTAL](https://www.virustotal.com/gui/)
 * [FireEye Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html)
+* [Permission.site](https://permission.site/)
 
 **Miscellaneous**
 * [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
