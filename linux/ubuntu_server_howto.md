@@ -16,7 +16,7 @@ Find IP address 'the hard way'
 ```bash
 ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
 ```
-***
+
 
 ## Remove Snap 
 
@@ -41,14 +41,14 @@ rm -fr ~/snap
 # Put snap on hold. Holding a package prevents it from being installed or upgraded automatically
 sudo apt-mark hold snapd
 ```
-***
+
 
 ## Programming tools 
 c programming, local development
 ```bash
 sudo apt install build-essential gdb git curl valgrind tmux
 ```
-***
+
 
 ## Set-up LAMP Server
 
@@ -140,7 +140,7 @@ sudo apache2ctl configtest
 # Reload Apache
 sudo systemctl reload apache2
 ```
-***
+
 
 **to do:** 
 
