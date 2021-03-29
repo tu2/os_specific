@@ -10,6 +10,8 @@ HOWTOs, tutorials and config files.
 * [Faces of open source](https://www.facesofopensource.com/)
 
 **Useful resources**
+
+**Miscellaneous**
 * [DNS Lookup | IP Location](https://www.dnswatch.info/) (dnswatch.info)
 * [IP-Tracker](https://www.ip-tracker.org) (ip-tracker.org)
 * [NVD](https://nvd.nist.gov/) - National Vulnerability Database (nvd.nist.gov)
@@ -18,7 +20,7 @@ HOWTOs, tutorials and config files.
 * [FireEye Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html)
 * [Permission.site](https://permission.site/)
 
-**Miscellaneous**
+
 * [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 * [awesom analytics](https://github.com/onurakpolat/awesome-analytics) 
 * [shynet analytics](https://github.com/milesmcc/shynet) - cool project
