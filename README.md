@@ -10,6 +10,8 @@ HOWTOs, tutorials and config files.
 * [Faces of open source](https://www.facesofopensource.com/)
 
 **Useful resources**
+*
+*
 
 **Miscellaneous**
 * [DNS Lookup | IP Location](https://www.dnswatch.info/) (dnswatch.info)
