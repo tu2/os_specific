@@ -10,7 +10,6 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 [OpenBSD Journal](http://www.undeadly.org/cgi?action=front) | [P. Hansteen](https://bsdly.blogspot.com)
 
-[reddit](https://www.reddit.com/r/openbsd/)
 
 ## On GitHub
 
