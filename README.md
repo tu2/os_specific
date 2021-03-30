@@ -12,7 +12,6 @@ HOWTOs, tutorials and config files.
 **Useful resources**
 
 *
-*
 
 **Miscellaneous**
 * [DNS Lookup | IP Location](https://www.dnswatch.info/) (dnswatch.info)
