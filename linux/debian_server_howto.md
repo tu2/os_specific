@@ -4,6 +4,8 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 
 ## Upgrade to the latest version
 
+*
+
 ### Variant 1
 Check os version: 
 ```bash
