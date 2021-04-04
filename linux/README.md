@@ -2,7 +2,6 @@
 
 **Online resources**
 
-***
 
 * Official [Ubuntu Documentation](https://help.ubuntu.com/) | Debian Adminstrator's [Handbook](https://debian-handbook.info/browse/stable/)
 
