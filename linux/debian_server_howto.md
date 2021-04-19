@@ -3,7 +3,7 @@
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ## Upgrade to the latest version
-$77$%
+$77$%_*1^
 ### Variant 1
 Check os version: 
 ```bash
