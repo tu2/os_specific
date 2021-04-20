@@ -105,7 +105,7 @@ sudo mysql_secure_installation
 
 ## Fast Inverse Square Root - A Quake III Algorithm
 
-```
+```C
 float Q_rsqrt( float number )
 {
   long i;
