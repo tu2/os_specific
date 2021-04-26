@@ -108,7 +108,7 @@ A Quake III Algorithm
 History
 
 Explanation
-
+```c
 float Q_rsqrt( float number )
 {
   long i;
@@ -126,3 +126,4 @@ float Q_rsqrt( float number )
 
   return y;
 }
+```
