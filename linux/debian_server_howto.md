@@ -3,7 +3,7 @@
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ## Upgrade to the latest version
-0xff 0xff
+
 ### Variant 1
 Check os version: 
 ```bash
