@@ -1,6 +1,6 @@
 # Debian Server Howto
 
-0xff
+0xff 0x001A
 
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
