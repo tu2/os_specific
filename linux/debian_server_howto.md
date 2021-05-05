@@ -1,5 +1,7 @@
 # Debian Server Howto
 
+0xff
+
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ## Upgrade to the latest version
