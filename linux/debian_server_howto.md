@@ -3,7 +3,7 @@
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ```shell
-0x04030201  0xffffffff
+0x04030201 0x110101011 0xffffffff
 ```
 
 ## Upgrade to the latest version
