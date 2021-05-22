@@ -4,7 +4,6 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 
 ```shell
 0x04030201,
-a, b
 ```
 
 ## Upgrade to the latest version
