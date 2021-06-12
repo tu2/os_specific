@@ -16,11 +16,11 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 [openbsd](https://github.com/openbsd)
 
-[joshua stein](https://github.com/jcs) 
+[joshua stein](https://github.com/jcs), [Kristaps Dzonsons](https://github.com/kristapsdz]
 
 ## Miscellaneous resources / Projects
 
-Kristaps Dzonsons - [BCHS](https://learnbchs.org) - interesting project
+[BCHS](https://learnbchs.org) - interesting project
 
 [pf-badhost](https://www.geoghegan.ca/pfbadhost.html)
 
