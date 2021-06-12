@@ -1,5 +1,7 @@
 # OpenBSD howto
 
+a
+
 A short installation and general usage of the operating system tutorial.
 
 ## OpenBSD online resources
@@ -15,7 +17,7 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 [openbsd](https://github.com/openbsd)
 
-[joshua stein](https://github.com/jcs)
+[joshua stein](https://github.com/jcs) 
 
 ## Miscellaneous resources / Projects
 
