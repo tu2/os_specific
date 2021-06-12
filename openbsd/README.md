@@ -1,6 +1,5 @@
 # OpenBSD howto
 
-a x
 
 A short installation and general usage of the operating system tutorial.
 
