@@ -3,7 +3,7 @@
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ```shell
-hex: 0x04030201 0x55
+hex: 0x04030201 0x55 0x778
 ```
 
 ## Upgrade to the latest version
