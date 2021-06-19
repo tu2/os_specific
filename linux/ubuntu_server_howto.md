@@ -2,7 +2,7 @@
 
 Official [Ubuntu Documentation](https://help.ubuntu.com/)
 
-0x342
+0x342 0x222
 
 ## Upgrade to a newer release
 
