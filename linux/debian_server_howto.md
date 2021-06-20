@@ -2,7 +2,7 @@
 
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
-
+0xa1a11a
 
 ## Upgrade to the latest version
 
