@@ -5,6 +5,9 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 ```shell
 hex: 0x04030201
 
+Hexadecimals floating point:
+0x1p+1   -> 2.0
+
 colours: GREEN "\e[0;92m" "\x1b[32m"
            RED "\x1b[31m" "\e[0;91m"
         PURPLE "\e[0;95m"
