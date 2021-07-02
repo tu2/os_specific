@@ -22,7 +22,7 @@ Reyk Floeter](https://github.com/reyk)
 
 ## Miscellaneous resources / Projects
 
-[BCHS](https://learnbchs.org) - interesting project
+[BCHS](https://learnbchs.org) - software stack for web applications
 
 [pf-badhost](https://www.geoghegan.ca/pfbadhost.html)
 
