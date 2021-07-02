@@ -30,7 +30,7 @@ Roman Zolotarev [resources](https://rgz.ee/openbsd/)
 
 [OpenBSD Jumpstart](https://www.openbsdjumpstart.org/#/)
 
-There is an [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) repository on github.
+[Awesome-OpenBSD](https://github.com/ligurio/awesome-openbsd)
 
 Keith Burnett - OpenBSD [on a laptop](http://sohcahtoa.org.uk/openbsd.html) 
 <!-- broken link
