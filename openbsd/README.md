@@ -36,4 +36,4 @@ Keith Burnett - OpenBSD [on a laptop](http://sohcahtoa.org.uk/openbsd.html)
 <!-- broken link
 | [Cullum Smith](https://www.c0ffee.net/blog/openbsd-on-a-laptop/) version.
 -->
-[New approach for openbsd-www](https://github.com/Nemin32/openbsd-www)
+[Nemin32 openbsd-www](https://github.com/Nemin32/openbsd-www)
