@@ -16,9 +16,7 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 [openbsd](https://github.com/openbsd)
 
-[Joshua Stein](https://github.com/jcs), [Kristaps Dzonsons](https://github.com/kristapsdz), [Antoine Jacoutot](https://github.com/ajacoutot), [ Avatar
-🐡
-Reyk Floeter](https://github.com/reyk)
+[Joshua Stein](https://github.com/jcs), [Kristaps Dzonsons](https://github.com/kristapsdz), [Antoine Jacoutot](https://github.com/ajacoutot), [Reyk Floeter](https://github.com/reyk)
 
 ## Miscellaneous resources / Projects
 
