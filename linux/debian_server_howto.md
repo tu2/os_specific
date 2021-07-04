@@ -20,6 +20,7 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
         
 0x1p+1   -> 2.0
 0x1p+8   -> 256.0
+0x1p-6   -> 0.015625
 ```
 
 ## Upgrade to the latest version
