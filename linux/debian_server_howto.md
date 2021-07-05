@@ -16,6 +16,7 @@ Hexadecimals floating point:
 0x1p+1   -> 2.0
 0x1p+8   -> 256.0
 0x1p-6   -> 0.015625
+0x1.bp3  -> 13.5
 
 colours: GREEN "\e[0;92m" "\x1b[32m"
            RED "\x1b[31m" "\e[0;91m"
