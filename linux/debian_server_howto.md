@@ -18,6 +18,12 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
            RED "\x1b[31m" "\e[0;91m"
         PURPLE "\e[0;95m"
         
+0x1p-1022                -> DBL_MIN
+
+
+
+
+        
 ```
 
 ## Upgrade to the latest version
