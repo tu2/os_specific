@@ -22,7 +22,7 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
 0x1.fffffffffffffp+1023  -> DBL_MAX
 0x1.bp3  -> 13.5
 0x1p-6   -> 0.015625
-
+0x1p+8   -> 256.0
         
 ```
 
