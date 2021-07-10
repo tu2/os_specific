@@ -2,11 +2,7 @@
 
 Official [Ubuntu Documentation](https://help.ubuntu.com/)
 
-```
-0x1p+1   -> 2.0
-0x1p+8   -> 256.0
 
-```
 
 ## Upgrade to a newer release
 
