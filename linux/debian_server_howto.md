@@ -19,8 +19,7 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
            RED "\x1b[31m" "\e[0;91m"
         PURPLE "\e[0;95m"
         
-7B5, 7B7
-7DB
+0X7B5, 0X7B7, 0X7DB
 
 ```
 
