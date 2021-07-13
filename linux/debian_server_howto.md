@@ -14,6 +14,8 @@ Hexadecimals floating point:
 0x1.fffffffffffffp+1023  -> DBL_MAX
 0x1p-1022                -> DBL_MIN
 
+
+0x1.fffffffffffffp+1023  -> DBL_MAX
 0x1p-1022                -> DBL_MIN
 
 colours: GREEN "\e[0;92m" "\x1b[32m"
