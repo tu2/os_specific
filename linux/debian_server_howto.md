@@ -23,22 +23,22 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
 ```
 ```c
 /* debug.c */
+ #include <stdio.h>
  #include <stdlib.h>                                                             
-  3                                                                                 
-  4 int process(int i1, int i2)                                                     
-  5 {                                                                               
-  6     int val;                                                                    
-  7                                                                                 
-  8 #ifdef DEBUG                                                                    
-  9     fprintf(stderr, "process (%i, %i)\n", i1, i2);                              
- 10 #endif                                                                          
- 11     val = i1 * i2;                                                              
- 12                                                                                 
- 13 #ifdef DEBUG                                                                    
- 14     fprintf(stderr, "return %i\n", val);                                        
- 15 #endif                                                                          
- 16     return val;                                                                 
- 17 }                                                                               
+                                                                                  
+ int process(int i1, int i2)                                                     
+ {                                                                               
+     int val;                                                                    
+           
+ #ifdef DEBUG                                                                    
+     fprintf(stderr, "process (%i, %i)\n", i1, i2);                              
+ #endif                                                                          
+     val = i1 * i2;                                                                                                                                             
+ #ifdef DEBUG                                                                    
+     fprintf(stderr, "return %i\n", val);                                        
+ #endif                                                                          
+     return val;                                                                 
+ }                                                                               
  18                                                                                 
  19 int main(int argc, char *argv[])                                                
  20 {                                                                               
