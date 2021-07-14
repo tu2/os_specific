@@ -22,7 +22,8 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
 
 ```
 ```c
-/* debug.c */
+ /* debug.c */
+
  #include <stdio.h>
  #include <stdlib.h>                                                             
                                                                                   
@@ -59,7 +60,7 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
  }
  
  
-
+gcc -D DEBUG debug.c
 ```
 
 ## Upgrade to the latest version
