@@ -39,24 +39,26 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
  #endif                                                                          
      return val;                                                                 
  }                                                                               
- 18                                                                                 
- 19 int main(int argc, char *argv[])                                                
- 20 {                                                                               
- 21     int a1 = 0, a2 = 0;                                                         
- 22                                                                                 
- 23     if(argc > 1)                                                                
- 24     a1 = atoi(argv[1]);                                                         
- 25     if(argc == 3)                                                               
- 26         a2 = atoi(argv[2]);                                                     
- 27 #ifdef DEBUG                                                                    
- 28     fprintf(stderr, "processed %i arguments\n", argc - 1);                      
- 29     fprintf(stderr, "arg1 = %i, arg2 = %i\n", a1, a2);                          
- 30 #endif                                                                          
- 31                                                                                 
- 32     printf("%i\n", process(a1, a2));                                            
- 33                                                                                 
- 34     return 0;                                                                   
- 35 }  
+                                                                                 
+ int main(int argc, char *argv[])                                                
+ {                                                                               
+     int a1 = 0, a2 = 0;                                                         
+                                                                                
+     if(argc > 1)                                                                
+         a1 = atoi(argv[1]);                                                         
+     if(argc == 3)                                                               
+         a2 = atoi(argv[2]);                                                     
+ #ifdef DEBUG                                                                    
+     fprintf(stderr, "processed %i arguments\n", argc - 1);                      
+     fprintf(stderr, "arg1 = %i, arg2 = %i\n", a1, a2);                          
+ #endif                                                                          
+                                                                                  
+     printf("%i\n", process(a1, a2));                                            
+                                                                                
+     return 0;                                                                   
+ }
+ 
+ 
 
 ```
 
