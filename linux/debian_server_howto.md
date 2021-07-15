@@ -4,6 +4,7 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 
 ```shell
 0x1p+1   -> 2.0
+0x1aab, 0x2ee2, 0x911cc, 0x1a0f0f
 
 hex: 0x04030201
 
