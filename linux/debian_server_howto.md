@@ -3,6 +3,7 @@
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ```shell
+0x1p+1   -> 2.0
 
 hex: 0x04030201
 
