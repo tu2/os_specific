@@ -20,17 +20,6 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
         
 https://stackoverflow.com/questions/30573481/how-to-write-a-makefile-with-separate-source-and-header-directories/30602701#30602701
 
-Hexadecimals floating point:
-0x1p+1   -> 2.0
-0x1p+8   -> 256.0
-0x1p-6   -> 0.015625
-0x1.bp3  -> 13.5
-0x1.fffffffffffffp+1023  -> DBL_MAX
-0x1p-1022                -> DBL_MIN
-
-colours: GREEN "\e[0;92m" "\x1b[32m"
-           RED "\x1b[31m" "\e[0;91m"
-        PURPLE "\e[0;95m"
 ```
 ```c
  /* debug.c */
@@ -85,9 +74,6 @@ lsb_release -a
 ```
 Update installed packages
 ```bash
-uname -mrs
-lsb_release -a
-
 sudo apt update && sudo apt upgrade
 sudo apt full-upgrade
 ```
