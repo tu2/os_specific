@@ -85,6 +85,9 @@ lsb_release -a
 ```
 Update installed packages
 ```bash
+uname -mrs
+lsb_release -a
+
 sudo apt update && sudo apt upgrade
 sudo apt full-upgrade
 ```
