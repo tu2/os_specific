@@ -1,6 +1,6 @@
-Date,High,Low,Wind mph,UV Index,Obs
+Date,High,Low,Wind mph,UV Index,Pressure,Obs
 
-2021-07-20,31,15,6,3,cloudy
+2021-07-20,31,15,6,3,1024 hPa,cloudy thunderstorm
 2021-07-19,31,17,4,2,cloudy
 2021-07-18,32,17,3,5,sunny
 2021-07-17,32,17,3,4,sunny
