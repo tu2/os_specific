@@ -6,6 +6,8 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 
 0x1p+1   -> 2.0
 0x1p+8   -> 256.0
+0x1p-6   -> 0.015625
+0x1.bp3  -> 13.5
 
 hex: 0x04030201
 
