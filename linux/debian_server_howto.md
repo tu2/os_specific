@@ -4,7 +4,7 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 
 ```shell
 
-hex: 0x04030201, 0x11111111, 0xffffffff
+hex: 0x04030201, 0x11111111, 0xffffffff, 0xffff0011
 
 Hexadecimals floating point:
 0x1p+1   -> 2.0
