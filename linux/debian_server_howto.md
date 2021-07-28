@@ -3,7 +3,6 @@
 Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info/browse/stable/)
 
 ```shell
-sudo apt install build-essential gdb git curl valgrind tmux
 
 hex: 0x04030201
 
