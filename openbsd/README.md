@@ -20,6 +20,8 @@ Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
 
 ## Miscellaneous resources / Projects
 
+[OpenBSD router guide](https://openbsdrouterguide.net/)
+
 [BCHS](https://learnbchs.org) - software stack for web applications
 
 [pf-badhost](https://www.geoghegan.ca/pfbadhost.html)
