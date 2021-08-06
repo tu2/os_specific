@@ -17,8 +17,6 @@ Hexadecimals floating point:
 colours: GREEN "\e[0;92m" "\x1b[32m"
            RED "\x1b[31m" "\e[0;91m"
         PURPLE "\e[0;95m"
-        
-https://stackoverflow.com/questions/30573481/how-to-write-a-makefile-with-separate-source-and-header-directories/30602701#30602701
 
 ```
 ```c
