@@ -4,8 +4,6 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 
 ```shell
 
-hex: 0x04030201
-
 Hexadecimals floating point:
 0x1p+1   -> 2.0
 0x1p+8   -> 256.0
