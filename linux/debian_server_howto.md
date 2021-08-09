@@ -18,6 +18,7 @@ colours: GREEN "\e[0;92m" "\x1b[32m"
         PURPLE "\e[0;95m"
 
 ```
+_(to be removed)_
 ```c
  /* debug.c */
 
