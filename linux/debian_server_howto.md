@@ -5,6 +5,7 @@ Main resource -  [Debian Administrators's Handbook](https://debian-handbook.info
 _(to be removed)_
 ```shell
 0x88ff
+0x90f1
 Hexadecimals floating point:
 0x1p+1   -> 2.0
 0x1p+8   -> 256.0
