@@ -11,7 +11,7 @@ HOWTOs, tutorials and config files.
 
 
 **Miscellaneous**
-* [resources.joren.ga](https://resources.joren.ga/)
+
 * [DNS Lookup | IP Location](https://www.dnswatch.info/) (dnswatch.info)
 * [IP-Tracker](https://www.ip-tracker.org) (ip-tracker.org)
 * [NVD](https://nvd.nist.gov/) - National Vulnerability Database (nvd.nist.gov)
@@ -22,6 +22,7 @@ HOWTOs, tutorials and config files.
 
 *****
 
+* [resources.joren.ga](https://resources.joren.ga/)
 * [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 * [awesom analytics](https://github.com/onurakpolat/awesome-analytics) 
 * [shynet analytics](https://github.com/milesmcc/shynet) - cool project
