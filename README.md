@@ -11,7 +11,9 @@ HOWTOs, tutorials and config files.
 
 
 **Miscellaneous**
+
 * [Burp Suit Community Edition](https://portswigger.net/burp/communitydownload)
+* [CyberChef](https://gchq.github.io/CyberChef/)
 * [DNS Lookup | IP Location](https://www.dnswatch.info/) (dnswatch.info)
 * [IP-Tracker](https://www.ip-tracker.org) (ip-tracker.org)
 * [NVD](https://nvd.nist.gov/) - National Vulnerability Database (nvd.nist.gov)
