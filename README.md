@@ -10,6 +10,7 @@ HOWTOs, tutorials and config files.
 
 [awk tutorial](https://github.com/adrianscheff/simple-awk)
 
+[usful-sed](https://github.com/adrianscheff/useful-sed)
 
 * [Faces of open source](https://www.facesofopensource.com/)
 
