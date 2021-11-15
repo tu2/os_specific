@@ -1,6 +1,8 @@
 # Operating Systems Specific
 HOWTOs, tutorials and config files.
 
+[awk tutorial](https://github.com/adrianscheff/simple-awk)
+
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
 * **linux** - all linux files
 
