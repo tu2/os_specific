@@ -8,9 +8,10 @@ HOWTOs, tutorials and config files.
 
 ## Other online resources
 
-[awk tutorial](https://github.com/adrianscheff/simple-awk)
+**Tutotials**
 
-[usful-sed](https://github.com/adrianscheff/useful-sed)
+* [awk](https://github.com/adrianscheff/simple-awk)
+* [sed](https://github.com/adrianscheff/useful-sed)
 
 
 
