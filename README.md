@@ -12,11 +12,12 @@ HOWTOs, tutorials and config files.
 
 [usful-sed](https://github.com/adrianscheff/useful-sed)
 
-* [Faces of open source](https://www.facesofopensource.com/)
+
 
 
 **Miscellaneous**
 
+* [Faces of open source](https://www.facesofopensource.com/)
 * [Burp Suit Community Edition](https://portswigger.net/burp/communitydownload)
 * [CyberChef](https://gchq.github.io/CyberChef/)
 
