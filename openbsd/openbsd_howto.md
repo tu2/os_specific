@@ -5,10 +5,7 @@
 
 (read man adduser)
 
-Manualy
-```shell
-user [add|del|info|mod] foobar
-```
+
 Add users interactively
 ```shell
 adduser
