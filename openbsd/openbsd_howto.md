@@ -38,9 +38,7 @@ Become root and edit doas.conf
 if it's not created, create it __/etc/doas.conf__
 
 ```bash
-su -l
 
-echo "permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel" >> /etc/doas.conf
 ```
 ### Wireless network setup
 
