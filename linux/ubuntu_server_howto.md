@@ -25,23 +25,7 @@ ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
 Nothing against **Snap**, but I don't want it for my server
 
 ```
-# Check for installed snap packages
-snap list
 
-# Remove snap packages
-sudo snap remove --purge package-name
-
-# Clear the snap cache
-sudo rm -rf /var/cache/snapd/
-
-# Uninstall snap and snap GUI tool
-sudo apt autoremove --purge snapd gnome-software-plugin-snap
-
-# Clear snap preferences
-rm -fr ~/snap
-
-# Put snap on hold. Holding a package prevents it from being installed or upgraded automatically
-sudo apt-mark hold snapd
 ```
 
 
