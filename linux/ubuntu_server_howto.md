@@ -7,11 +7,7 @@ Official [Ubuntu Documentation](https://help.ubuntu.com/)
 ## Upgrade to a newer release
 
 ```
-sudo apt update && apt upgrade -y
 
-sudo do-release-upgrade
-
-sudo apt autoremove
 
 
 ```
