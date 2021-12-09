@@ -8,11 +8,7 @@ Official [Ubuntu Documentation](https://help.ubuntu.com/)
 
 ```
 
-sudo apt update && apt upgrade -y
 
-sudo do-release-upgrade
-
-sudo apt autoremove
 
 
 ```
