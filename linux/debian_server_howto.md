@@ -64,6 +64,8 @@ gcc -D DEBUG debug.c
 ### Variant 1
 Check os version: 
 ```bash
+uname -mrs
+lsb_release -a
 
 ```
 Update installed packages
