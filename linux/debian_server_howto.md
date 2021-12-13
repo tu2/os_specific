@@ -70,7 +70,8 @@ lsb_release -a
 ```
 Update installed packages
 ```bash
-
+sudo apt update && sudo apt upgrade
+sudo apt full-upgrade
 ```
 OR 
 ```bash
