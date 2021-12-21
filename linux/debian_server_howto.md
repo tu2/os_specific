@@ -102,8 +102,7 @@ sudo apt --purge autoremove
 Check for errors
 
 ```bash
-dmesg | egrep -i 'err|warn|critical'
-sudo tail -f /var/log/myapp
+
 ```
 
 ## Verify installed PACKAGE version
