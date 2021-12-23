@@ -9,7 +9,8 @@ HOWTOs, tutorials and config files.
 ## Other online resources
 
 **Tutotials**
-
+* [Jan Schaumann](https://netmeister.org/) 
+    * [System Administration](https://stevens.netmeister.org/615/)
 * [awk](https://github.com/adrianscheff/simple-awk)
 * [sed](https://github.com/adrianscheff/useful-sed)
 
