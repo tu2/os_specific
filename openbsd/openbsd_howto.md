@@ -124,6 +124,8 @@ pkg_delete -an
 
 'clang' is installed bt default
 
+`pkg_add install vim
+
 To install gcc
 
 `doas pkg_add gcc`
