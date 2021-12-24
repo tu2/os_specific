@@ -124,7 +124,9 @@ pkg_delete -an
 
 'clang' is installed bt default
 
-T o instal 
+To install gcc
+
+`doas pkg_add gcc`
 
 ## Security updates
 
