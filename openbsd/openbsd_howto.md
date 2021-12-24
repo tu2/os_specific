@@ -120,6 +120,12 @@ Show unused dependencies
 pkg_delete -an
 ```
 
+### Development
+
+'clang' is installed bt default
+
+T o instal 
+
 ## Security updates
 
 ```bash
