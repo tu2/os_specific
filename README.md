@@ -13,7 +13,7 @@ HOWTOs, tutorials and config files.
     * [System Administration](https://stevens.netmeister.org/615/)
     * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [awk tutorial](https://github.com/adrianscheff/simple-awk)
-* [sed](https://github.com/adrianscheff/useful-sed)
+* [sed tutorial](https://github.com/adrianscheff/useful-sed)
 
 
 **Frameworks**
