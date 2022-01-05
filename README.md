@@ -5,9 +5,7 @@ HOWTOs, tutorials and config files.
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
 * **linux** - all linux files
 
-[Neil Henning](https://github.com/sheredom)
 
-[Jean Heyd Meneide](https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you)
 
 ## Other online resources
 
@@ -46,3 +44,8 @@ HOWTOs, tutorials and config files.
 * [awesom selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 * [awesom analytics](https://github.com/onurakpolat/awesome-analytics) 
 * [shynet analytics](https://github.com/milesmcc/shynet) - cool project
+
+
+[Neil Henning](https://github.com/sheredom)
+
+[Jean Heyd Meneide](https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you)
