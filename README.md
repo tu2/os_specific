@@ -5,7 +5,7 @@ HOWTOs, tutorials and config files.
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
 * **linux** - all linux files
 
-[Neil Henning](https://github.com/sheredon)
+[Neil Henning](https://github.com/sheredom)
 
 ## Other online resources
 
