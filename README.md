@@ -6,6 +6,7 @@ HOWTOs, tutorials and config files.
 * **linux** - all linux files
 
 [Neil Henning](https://github.com/sheredom)
+[Jean Heyd Meneide](https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you)
 
 ## Other online resources
 
