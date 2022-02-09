@@ -5,6 +5,10 @@ HOWTOs, tutorials and config files.
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
 * **linux** - all linux files
 
+## Security
+
+[1. Linux (In)Security](https://madaidans-insecurities.github.io/linux.html)
+[2]()
 
 
 ## Other online resources
