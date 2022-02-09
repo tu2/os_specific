@@ -5,12 +5,6 @@ HOWTOs, tutorials and config files.
 * **openbsd** - config & tutorials for [OpenBSD](https://www.openbsd.org)
 * **linux** - all linux files
 
-## Security
-
-* [Grsecurity](https://grsecurity.net/)
-* [Linux (In)Security](https://madaidans-insecurities.github.io/linux.html)
-* [Linux Hardening guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
-
 
 ## Other online resources
 
