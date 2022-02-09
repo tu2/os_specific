@@ -8,8 +8,8 @@ HOWTOs, tutorials and config files.
 ## Security
 
 * [Grsecurity](https://grsecurity.net/)
-* [1. Linux (In)Security](https://madaidans-insecurities.github.io/linux.html)
-* [2]()
+* [Linux (In)Security](https://madaidans-insecurities.github.io/linux.html)
+* [Linux Hardening guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 
 
 ## Other online resources
