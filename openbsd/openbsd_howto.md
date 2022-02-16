@@ -44,7 +44,9 @@ echo "permit setenv { PKG_PATH ENV PS1 SSH_AUTH_SOCK } :wheel" >> /etc/doas.conf
 ```
 ### Wireless network setup
 
-***ifconfig*** to find the wireless network interface (let's say ***iwn0***)
+***ifconfig*** to find the wireless network interface. If it's not listed it means it's not supported.
+
+(let's say our wireless card is identified as ***iwn0***)
 
 ```
 fw_update
