@@ -166,3 +166,9 @@ Delete all gateway entries from the routing table
 ```bash
 route -n flush
 ```
+## X Window System
+
+Start X Window system
+```bash
+doas xenodm
+```
