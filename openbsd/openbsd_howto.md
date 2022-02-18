@@ -172,3 +172,7 @@ Start X Window system
 ```bash
 doas xenodm
 ```
+## Power Off
+```bash
+doas shutdown -h -p now
+```
