@@ -14,6 +14,7 @@ HOWTOs, tutorials and config files.
     * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [awk tutorial](https://github.com/adrianscheff/simple-awk)
 * [sed tutorial](https://github.com/adrianscheff/useful-sed)
+* [git tutorial](https://git-scm.com/book/en/v2)
 
 
 **Frameworks**
