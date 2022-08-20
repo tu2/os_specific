@@ -1,9 +1,9 @@
 Date,High,Low,Wind mph,UV Index,Pressure hPa,Humidity %,Obs
 
-2022-08-20,22,12,11,3,1016,79,sunny
+2022-08-20,22,12,15,4,1015,48,mostly sunny/wind
 2022-08-19,22,13,14,5,1014,38,sunny
 2022-08-18,23,15,13,5,1013,58,partly cloudy
-2022-08-17,18,14,15,1,1014,86,cloudy
+2022-08-17,18,14,15,1,1014,86,cloudy/wind
 2022-08-16,23,16,4,2,1008,76,mostly cloudy/rain
 2022-08-15,26,17,8,4,1002,40,mostly sunny/hot
 2022-08-14,33,14,7,6,1005,21,mostly sunny/hot
