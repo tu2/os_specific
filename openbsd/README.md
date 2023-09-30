@@ -5,7 +5,7 @@ A short installation and general usage of the operating system tutorial.
 
 ## OpenBSD online resources
 
-Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html).
+Official OpenBSD [installation guide](http://www.openbsd.org/faq/index.html) | NEW online [handbook](https://www.openbsdhandbook.com/)
 
 [CVS Repository](https://cvsweb.openbsd.org/)
 
