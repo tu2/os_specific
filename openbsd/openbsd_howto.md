@@ -174,5 +174,5 @@ doas xenodm
 ```
 ## Power Off
 ```bash
-doas shutdown -h -p now
+doas shutdown -ph now
 ```
