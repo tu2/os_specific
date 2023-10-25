@@ -8,7 +8,7 @@ HOWTOs, tutorials and config files.
 
 ## Other online resources
 
-**Tutotials**
+**Tutorials**
 * [Jan Schaumann](https://netmeister.org/) 
     * [System Administration](https://stevens.netmeister.org/615/)
     * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
