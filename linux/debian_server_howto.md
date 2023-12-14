@@ -93,11 +93,12 @@ check if user in sudo group
 ```bash
 id OR group
 ```
-Install configure ufw (Uncomplicated Firewall)
+Install and configure ufw (Uncomplicated Firewall)
 ```bash
 $ sudo apt install ufw
 $ sudo systemctl enable ufw --now
 $ sudo ufw enable
+$ sudo ufw app list
 $ sudo ufw allow ssh
 $ sudo ufw status verbose
 ```
@@ -110,7 +111,6 @@ sudo apt install apache2
 ```
 Configure Firewall
 ```bash
-sudo ufw app list
 sudo ufw allow http
 sudo ufw status
 ```
