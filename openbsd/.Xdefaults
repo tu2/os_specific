@@ -1,0 +1,9 @@
+Xterm*Background: black
+XTerm*Foreground: #FFBF00
+XTerm*HiBackColor: black
+XTerm*HiForeColor: #FFBF00
+XTerm*font: 9x15
+XTerm*saveLines: 1000
+XTerm*geometry: 90x50-0+0
+XTerm*scrollBar: false
+XTerm*loginShell: fonts
