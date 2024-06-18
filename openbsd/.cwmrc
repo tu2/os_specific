@@ -1,1 +1,16 @@
 # cwm monochrome theme amber (#ffbf00)
+
+fontname "terminus:pixelsize=14:bold"
+
+sticky yes
+borderwidth 1
+
+#border colors
+color activeborder "#FFBF00"
+color inactiveborder "#FFBF00"
+color urgencyborder "#FF4000"
+
+color selfont "#FFBF00"
+color font "#FFBF00"
+color menubg "#000000"
+color menufg "#FFBF00"
