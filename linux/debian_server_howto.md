@@ -91,7 +91,7 @@ $ su --login OR su -l
 ```
 check if user in sudo group
 ```bash
-id OR group
+id
 ```
 Install and configure ufw (Uncomplicated Firewall)
 ```bash
